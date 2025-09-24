@@ -1,0 +1,1244 @@
+Auto Highlight Ren'Py Module 2021 Daniel Westfall <SoDaRa2595@gmail.com>
+http://twitter.com/sodara9 I'd appreciate being given credit if you do end up using it! :D Would really make my day to know I helped some people out! http://opensource.org/licenses/mit-license.php Github: https://github.com/SoDaRa/Auto-Highlight itch.io: https://wattson.itch.io/renpy-auto-highlight
+Setup (IMPORTANT)
+General Note
+Variables
+Transforms
+Chancho corre entre el lodo con otros cerdos. Pero él es más alto. Sus patas tiemblan. Sus ojos no son iguales. Los demás cerdos lo miran, y se alejan.
+¿Ya no quieren lodo? Venga, está muy fresco.
+Uno de los cerdos lo empuja. Otro lo ignora. Uno gruñe fuerte, con rechazo. Chancho se aleja, confundido, triste. Cruza un cerco, mira hacia el monte. El cerco no se ve tan alto como antes. Comienza a caminar.
+Chancho despierta sobresaltado. Se sacude las hojas con movimientos torpes. Huele el aire. Se calma. Escucha un pájaro. Se emociona. Se pone de pie.
+Flores primero. Luego jugar y esperar a mamá. Siempre así.
+Chancho se mueve entre las plantas y arbusto, cuidando no hacer ruido. Llega a un jardín. Las plantas están verdes, húmedas.
+Chancho se acerca a unas en particular: hojas grandes, olor fuerte, dulzón. Unas caléndulas. Las lame. Las mastica despacio.
+Cierra los ojos. Se acuesta en el pasto, satisfecho. Luego, vuelve a mirar hacia la casa.
+Está, está!? Ya puedo verla.
+Se acerca a la puerta trasera con pasos cortos. Sube los escalones de madera. Pero se detiene.
+Chancho se pega a la puerta. Raspa con una pata. Nadie abre. Solo el silencio vuelve. Chancho se acuesta junto a la puerta. La cabeza sobre el piso. Toma una buena sombra y procede a esperar.
+Chancho, más pequeño, cubierto de lodo. Una figura femenina se acerca. Se agacha. Le deja comida envuelta. Lo observa con ternura.
+No muerdes, ¿verdad? Yo tampoco.
+Le sonríe. Se va. Chancho se queda mirando. No entiende la emoción que le aprieta el pecho.
+Chancho despierta sobresaltado. Se pone alerta. Se arrastra hasta la ventana lateral. No alcanza a ver muy bien. Algo está mal, pero no sabe que es.
+Chancho vuelve al jardín. Come otra flor. La mastica con más lentitud. Luego se acuesta.
+Mira la puerta cerrada y vuelve a acercarse. Esta vez golpea con más insistencia, raspa más fuerte, emite un chillido agudo.
+La puerta se abre de golpe. Helena con los ojos rojos y el rostro demacrado mira a Chancho.
+¿Qué...?
+¡Vete de aquí!
+Está por cerrar la puerta. Pero se detiene. Nota en la ropa del cerdito unas motas anaranjadas, restos de caléndula.
+¿Tú...?
+Chancho da un paso hacia adentro. Levanta las orejas. Sonríe.
+¡No!
+Sale de la casa, se dirige al jardín. Toma las macetas intactas. Las mete al interior una a una, colocándolas frente a la ventana. Chancho se acerca a la entrada.
+No. Aquí no.
+Levanta una escoba y lo ahuyenta. Chancho retrocede unos pasos, confundido, pero no huye. Solo baja la cabeza.
+Chancho se acurruca frente a la puerta. La noche cae lenta. El frío empieza a aumentar.
+Hoy no salió.
+Mira hacia la ventana. Nadie aparece. El cerdito bosteza. Se regresa a su cueva.
+Chancho duerme acurrucado entre hojas.
+Chancho, más joven, más cerdo. Su cuerpo era aún redondo, apenas humano. Su hocico más corto, sus movimientos más torpes. Entre los escombros y lodo de un corral, encuentra un cuerpo humano. No tiene nombre. Solo carne. Chancho lo huele, lo toca, lo prueba.
+Chancho despierta con sobresalto. Se queda quieto.
+Hortensia. Hoy sí. Hoy sí viene.
+Sale de su escondite.
+Se acerca a la casa. Se asoma por la ventana, empinándose con dificultad.
+ No hay nadie. {p=1.5} Ve la mesa vacía. La sala revuelta. Pero allí están... las caléndulas. Colocadas en una esquina, dentro.
+Ella las puso ahí. Para que las viera. Ella está cerca.
+Chancho se sienta. Mira la ventana. Espera. Las horas pasan. El cielo se pinta naranja.
+El estómago de Chancho ruge. Se agita. Olfatea con ansiedad. Mira de nuevo la ventana.
+Chancho se pone de pie. Coloca sus pezuñas sobre el marco.
+Gira la cabeza. Mete el hocico. {p=1.5} Nada. {p=1.5} Se frustra. Da vueltas. Mira hacia todos lados. Y vuelve a intentarlo.
+El marco se astilla. La madera vieja cede. Un pequeño hueco. Chancho empuja su cuerpo entre los restos de la ventana.
+Chancho cae dentro con torpeza. Tose. Sacude sus patas. Se arrastra hasta las macetas. Las huele. Las lame. Come con desesperación.
+En el fondo... Helena llora en su habitación. No grita. No reacciona al ruido. No sale.
+Chancho se detiene un momento. Mira en dirección al sonido. Mastica más lento. Luego traga.
+Está llorando otra vez.
+Chancho olfatea el aire. La casa huele mal. A sudor seco. A carne vieja.
+Avanza por el pasillo. {p=1.5} Pasa cerca de una puerta entreabierta. Dentro, todo está limpio. Casi intacto. Un cojín gastado. Un vaso a medio llenar. Una blusa doblada.
+Chancho se detiene. Huele la puerta. Se queda quieto.
+Aquí... aquí huele a ella.
+Chancho entra al cuarto de hortensia, está desordenado, da una vuelta alrededor buscando algo. No lo encuentra y se va.
+Aquí no está
+Luego sigue avanzando, rumbo al cuarto de Helena.
+Chancho camina arrastrando las patas, dejando un rastro leve de tierra húmeda. La casa está en penumbra. La puerta del cuarto de Helena está entreabierta. Una tenue luz amarilla se filtra por la rendija. {p=1.5}Se asoma.
+Helena yace en el suelo.
+La habitación es un caos. Ropa sucia, papeles arrugados, bandejas vacías, charolas rotas. Una botella volcada chorrea sobre el piso.
+Chancho entra en silencio. Sus pasos sobre los objetos del suelo suenan como crujidos de hojas secas.
+Te dije que no...
+Levanta un poco la cabeza. Lo ve. Reconoce a Chancho. Suspira. Baja la cabeza de nuevo.
+Otra vez tú...
+Chancho se acerca con cautela. Olfatea su hombro. Ladea la cabeza. Se sienta. La observa.
+Chancho intenta empujarla con el hocico. Ella no se mueve. Intenta levantar su brazo. Ella lo aparta con una mano temblorosa.
+No quiero. Déjame.
+Chancho no entiende. Pero siente.
+No está fracturada... sólo... solo que ya no camina.
+Helena se voltea, le da la espalda. Chancho retrocede. Sale lentamente del cuarto.
+Chancho se enrolla en la manta. Tiembla. Cierra los ojos. Trata de dormir
+Chancho corre entre ramas. Sus patas están heridas. Su respiración es agitada. Al fondo, luces. Voces humanas. Pasos apresurados.
+¡Ahí va! ¡¡Rápido!!
+No quiero... no quiero...
+Ramas lo arañan. Tropieza. Se arrastra. Se levanta de nuevo. Gira. Está rodeado. Un destello. Una linterna directa a su cara.
+¡Lo tenemos!
+Chancho busca por donde correr. Solloza.
+¡Ven sube!
+Chancho la ve. Ella extiende los brazos desde la cabina de una camioneta. Su silueta contra la luz. Se lanza hacia ella. Sube. Ella lo sujeta. Cierra la puerta.
+Chancho en el asiento trasero. Hortensia le pasa una manta.
+Shhh... Ya pasó. Ya estás conmigo.
+Chancho cierra los ojos. Se acurruca. Sonríe.
+Chancho se despierta. Mira a su alrededor. Sigue solo. El viento sacude las ramas. Su hocico se mueve. Olfatea. Se pone de pie lentamente.
+De pronto, se detiene. Su hocico se alza. Olfatea. Gira hacia la izquierda. Camina en esa dirección.
+Helena, cubierta de barro, cavando. {p=1.5} Está junto a la tumba simbólica donde dejó el código QR de su madre. La tierra ya no es tan blanda. Cada palada parece más pesada que la anterior.
+Chancho se detiene a unos metros. La observa en silencio. Helena lo ve. No dice nada. No lo echa. Solo lo ve. Sus ojos están llenos, pero secos.
+Chancho se sienta. {p=1.5} El viento se lleva el silencio.
+Chancho sigue sentado. Helena ya no cava. Solo se queda junto al agujero, arrodillada, con la pala sobre las piernas.
+Chancho se pone de pie. Mira hacia el origen del ruido. La casa de Helena. Tensos segundos.
+Voltea hacia Helena. Ella no reacciona. Mira la tierra. Cierra los ojos. Los sonidos se desvanecen.
+Quizás si no lo ve, no existe.
+Chancho y Helena caminan juntos, pero no lado a lado. Hay una distancia entre ellos. Helena camina como si cargara el monte sobre sus hombros. Chancho solo la sigue.
+Al llegar, Helena se detiene en seco.
+La puerta está colgando de una sola bisagra. Cristales rotos por todo el jardín. Las plantas volteadas. Huellas de barro por la entrada.
+El interior... devastado.
+No...
+Se arrodilla. Luego cae con todo el peso de su cuerpo. Comienza a sollozar.
+¿Por qué...?!
+Chancho se acerca con pasos inseguros. Quiere consolarla. Pero no sabe cómo. Frota su cabeza contra su brazo. No hay respuesta.
+Se aleja. Entra a la casa destruida. Cruza entre vidrios y muebles volcados. Encuentra una manta enredada entre los restos de un sillón.
+Chancho sale con la manta entre los dientes. Se acerca a Helena, que ya no llora. Solo respira fuerte, con los ojos perdidos.
+Chancho la cubre con torpeza. Luego se acuesta junto a ella. Su cuerpo toca apenas el suyo.
+Chancho, más pequeño. Hortensia lo baja de la camioneta. Está envuelto en una manta. Lo deja en la parte trasera de la casa, junto a las caléndulas.
+Por aquí estarás más seguro. Diviértete, sé libre.
+Chancho la mira. No entiende todo, pero asiente con el cuerpo. Ella le acomoda la manta. Le da una palmada suave en la cabeza. Luego se va. 
+Chancho huele el lugar. Mira alrededor. Camina en círculos. Luego se aleja, adentrándose en los arbustos. La cueva lo espera.
+Chancho despierta primero. La manta se ha deslizado por su lomo. Se sacude. Mira a Helena, aún dormida, cubierta de tierra y lágrimas secas. Se acerca. La empuja con el hocico. Ella gruñe bajo.
+Despierta. No puedes quedarte aquí. Hace frío.
+Chancho la empuja de nuevo. Esta vez más fuerte. Helena gruñe.
+Ya basta... cerdo tonto...
+Chancho la jala del suéter. Ella forcejea. Se sienta de mala gana.
+¿¡Qué quieres ahora, huh!?
+No hay respuesta. Solo la mirada tierna de Chancho. {p=1.5} Ella suspira. {p=1.5} Se pone de pie con lentitud. Caminan.
+Helena entra. Chancho se queda en la entrada. Ella observa el caos. Se arrastra hasta el refrigerador. Lo abre. Saca una charola sellada. No la mira. Solo la agarra. Camina hacia su cuarto.
+Chancho se sienta fuera. Mira la puerta. Luego al pasillo. Espera.
+
+Chancho espera. {p=1.5} Día 1. {p=1.5} Día 2. {p=1.5} Día 3.
+Sigue sin moverse. Tal vez solo duerme mucho... como cuando llueve.
+Chancho regresa a su cueva. Se acurruca.
+Chancho vuelve. La puerta de la casa está entreabierta.
+Creo que ya salió.
+Chancho entra con cautela. El aire huele extraño. Fétido.
+Todo sigue revuelto. Pero ahora hay algo más.
+Sangre en el piso. {p=1.5} Chancho retrocede.
+Un cuerpo en el suelo.
+Se acerca de nuevo. Lo huele más profundamente. Sus ojos se agrandan.
+No... No, tú no. Tú no.
+Es Hortensia. O lo que queda de ella. Mutada. Fracturada.
+Chancho se desploma. Llora. No con sonido. Solo con cuerpo.
+La empuja con la cabeza. Nada. Le raspa el brazo. Nada.
+Se acurruca junto a ella. Se queda ahí. No hay más.
+Chancho despierta en el mismo lugar. Helena no ha vuelto en días. Tiene hambre. Ya no hay comida. Mira el cuerpo. No lo toca. Sale.
+Chancho camina con pasos lentos. Busca comida o algo. El aire es húmedo. Más que otros días.
+Pasa junto a la tumba de Hortensia. Algo brilla. Se detiene. Mira hacia el hueco.
+Dentro, el cuerpo de Helena yace inerte. Brazo sobre el pecho. Las muñecas abiertas. {p=1.5} Sangre seca. {p=1.5}Hongos blancos brotan por las heridas. Apenas empieza a cubrirse.
+Chancho baja. Olfatea el cuerpo. Cierra los ojos.
+El sol comienza a bajar.
+
+En la habitación, en el centro, Helena permanece sentada en el colchón, la nota de su madre apretada entre los dedos.
+No era tan difícil confiar en mí, mamá. No para esto.
+Con un grito ahogado, lanza el marco de la foto contra la pared. El vidrio se rompe con un crujido seco. Se levanta de golpe, respira agitada. Empieza a derribar objetos: abre cajones y los vacía, tira almohadas, golpea la cabecera. Patea el buró con fuerza.
+¡Tercas! ¡Eso dijiste! ¡Claro que lo somos! ¡Pero esto no se hace así, mamá!
+Sollozos contenidos la interrumpen. Cae de rodillas entre los restos, jadeando, con los puños cerrados.
+Un sonido. Golpes suaves. Alguien toca la puerta trasera que da al jardín.
+Helena se pone de pie, tambalea
+Helena se pone de pie y agarra la foto de su mamá
+Me hubiera gustado que te despidieras en persona.
+Vuelven a tocar la puerta. Helena se pone de pie, tambaleante.
+Sale del cuarto.
+Cruza la cocina. Abre la puerta trasera con un tirón brusco. El cerdo está allí, con su overol sucio.
+No. No hoy.
+Le cierra la puerta sin dudar.
+La luz blanca del baño la deslumbra. Abre la llave. Se enjuaga la boca una y otra vez, cepillo en mano. Escupe. Siente náuseas.
+No se va... no se va...
+Vuelve a cepillarse, con desesperación. El sabor sigue ahí. Arcadas. Se inclina sobre la taza. Vomita, pero no sale nada. Solo espasmos vacíos. Se queda ahí, respirando con dificultad, las manos aferradas al borde del inodoro.
+Lentamente, se desliza hacia el suelo, agotada. Se abraza las piernas. Y llora. Sin palabras. Solo el sonido de su respiración entrecortada, acompasado por el eco lejano de los golpecitos que Chancho aún hace en la puerta del jardín.
+Las paredes grises y sin pintar absorben la poca luz del sol que se cuela por la ventana. El aire es tibio y huele a aceite recalentado. Helena, con apenas ocho años, come sentada frente a un plato de princesas. Sus padres, Hortensia y Hugo, cenan en silencio.
+¡AAAAAAH!
+El grito resuena como un disparo. Hortensia se levanta de golpe, tirando el tenedor. Hugo se queda inmóvil al principio, luego corre a abrazar a su hija. Helena está tiesa, los ojos en blanco, el cuerpo tembloroso. Hortensia cae de rodillas frente a ella.
+Mi niña... mi niña...
+Helena rompe en llanto. Hugo la aprieta contra su pecho.
+Luces... muchas luces... y una cama... había pitidos... alguien lloraba.
+Mi niña.
+Los padres se miran confundidos.
+La mesa está servida. Carne y ensalada. Helena empieza a comer. Entra de nuevo en trance. Hortensia la abraza con cuidado, acariciándole el cabello. Hugo mira la carne que queda en el plato de su hija. Suda. Toma un pedazo. Lo observa. Lo huele.
+Sin decir nada, se agacha frente a la niña.
+A ver, abre tu boquita.
+Helena obedece sin pensar. Mastica. Dos segundos después, las pupilas se le dilatan. El cuerpo se tensa. El trance la reclama.
+Cortinas blancas... una viejita llorando... pitidos... ¡La enfermera ya viene!
+Helena se calma. Esta vez no hay llanto. Solo cansancio. Hugo la mira como si hubiera encontrado oro. Se incorpora.
+¡Hortensia! ¡Tiene un don! ¡¿No lo ves?! ¡Puede ver a los muertos!
+Hugo toma la mano de Hortensia
+Hay gente que pagaría por esto.
+No vamos a lucrar con esto.
+Esto no es sobre el dinero, es sobre ayudar, Hortensia. La gente necesita saber... ¡Y nosotros también!
+¿Y hacer de nuestra hija una médium?
+Solo en lo que me alivio de la espalda.
+Ella se aleja cargando a su hija. Entra al cuarto y cierra la puerta. Se acuesta con Helena sin decir una palabra.
+El agua del lavabo sigue corriendo. Helena deja de llorar. Se incorpora. Tiene los ojos hinchados, pero la mirada firme.
+Sale del baño.
+Entra a su habitación y azota la puerta.
+Se lanza a la cama. 
+La casa se queda en silencio. Las horas pasan. En la habitación, solo el sonido suave de una respiración rota acompaña la oscuridad. Helena, entre la fatiga y los recuerdos, al fin se queda dormida.
+El cielo está cubierto por nubes grises. Un bosque espeso y verde respira en silencio. La tierra está húmeda, cubierta de hojas viejas y ramas rotas. Los hongos brotan en grupos diminutos, ocultos entre la maleza. Todo está cubierto por una niebla baja que suaviza los contornos.
+Helena camina junto a su madre, Hortensia. Ambas llevan canastas de mimbre vacías y los zapatos llenos de barro. Hortensia se detiene y se arrodilla junto a un tronco caído.
+Estos de aquí... son buenos. Mira las láminas por debajo, como costillas. Son como los que comimos el otro día.
+Helena se agacha también. Sus dedos temblorosos rozan los hongos blancos. Son como orejas blandas pegadas a la madera. Hortensia la observa con paciencia.
+No debemos comer cualquier hongo porque no todos son amigos.
+Helena está sola ahora. La canasta casi le cuelga del brazo. Canta una melodía suave mientras avanza entre ramas. Sus pies descalzos chapotean en el barro. Observa cada rincón con cuidado.
+Hoy no hay hongos...
+Se detiene de golpe. Algo ha llamado su atención.
+En la base de un árbol viejo, medio podrido, hay un hongo distinto. Es blanco, con forma de abanico. Brilla, húmedo, como si acabara de despertar de un sueño largo. Crece sobre una masa de huesos diminutos, cubiertos de musgo.
+Helena se agacha. Lo observa con curiosidad. No parece temerosa. Lo arranca con cuidado y lo guarda en su canasta.
+Los hongos crecen y forman un paisaje precioso.
+Helena se despierta bruscamente en su cama. Mira hacia un reloj digital sobre el buró: 6:13 a.m. No ha dormido bien. Camina hacia la puerta de su cuarto, apoya la mano en la perilla y la gira.
+Abre la puerta. Da un paso hacia el pasillo, pero al girar la cabeza ve el baño. {p=1.5} Se queda petrificada.
+La luz del baño sigue encendida, parpadeando. La imagen de anoche la golpea como un muro. Las arcadas, el piso frío, el sabor en la boca. Retrocede. La respiración se le acelera.
+No... no otra vez... por favor...
+Cae de rodillas. Se abraza a sí misma. El pecho sube y baja con violencia. Gime bajo, como si intentara ocultarse incluso de su propio cuerpo. Y entonces, se quiebra.
+La cocina está en penumbra. Una vela encendida parpadea sobre la mesa. Helena come un guiso sencillo. Hortensia canta bajito mientras lava algo en el fregadero.
+De pronto, Helena se queda quieta. Parpadea varias veces. Su cuerpo se arquea levemente hacia adelante. La vela se agita.
+La vela se apaga de golpe.
+Cada vez que come carne, Helena entra en un trance. La llevan con doctores, hacen estudios, pruebas, pero no hay respuestas.
+Un pequeño altar hecho con velas, flores secas y telas colgantes. Todo enmarcado con una tela morada desteñida. Hugo, sonriente, acomoda sillas plegables frente al altar.
+Helena, con un vestido de princesa manchado en la parte baja, está sentada en una silla de madera al centro. El cabello recogido en una media corona de flores plásticas. Sus ojos están vacíos.
+Frente a ella, una mujer de luto, llorando desconsolada, le entrega un pequeño trozo de carne cruda en un platito.
+Por favor... solo quiero saber si me escuchó antes de irse.
+Helena mastica sin resistencia. Hugo se para detrás de ella, una mano sobre su hombro. La carne entra. La visión llega. El cuerpo de la niña se sacude. Las pupilas se dilatan. El aire se vuelve espeso.
+Dijo... dijo que sí. Que escuchó... y que no te guarda rencor...
+La mujer rompe en llanto. Hugo sonríe satisfecho, mientras mete el sobre de dinero en el bolsillo de su pantalón.
+Hugo le coloca un collar de flores a Helena mientras le dice:
+Eres un puente, mi reina... eres la llave.
+Llave no. Tengo hambre...
+Come otro bocado. Y sonríe. La gente viene por ti.
+Helena obedece, tragando sin gusto.
+Helena, acurrucada frente a la puerta de su cuarto, llora sin fuerzas. Sus dedos se clavan en los brazos. Hiperventila. La luz del baño titila una vez más.
+Un estruendo. Una ventana rompe en otra parte de la casa. Algo pesado cae al suelo. Silencio.
+Helena no se mueve. Otra pisada. Algo corre. Un quejido bajo.
+El cerdo aparece en el pasillo, cubierto de polvo y con el overol rasgado. Lleva una maceta rota en las manos.
+Se detiene al ver a Helena hecha trizas en el suelo.
+Oink... ¡Hola...! ¿Estás bien?
+¿Sabes qué? Desordena lo que quieras. Ya no importa.
+
+Helena apenas lo mira. Sus ojos están vidriosos, las lágrimas aún no se han secado. Se levanta tambaleante, entra de nuevo a su cuarto, y cierra la puerta lentamente.
+Oink...
+Helena está tendida sobre la cama, inmóvil, con el rostro hacia la pared. Su respiración es leve, apenas perceptible. El sueño llega no por descanso, sino por agotamiento.
+Helena, niña de ocho años, camina con un vestido de princesa arrastrándose por el lodo. El bosque está distorsionado, como si la niebla escondiera cosas que no se atreven a mostrarse por completo.
+ De los árboles cuelgan trozos de carne envueltos en listones. Hay velas encendidas sobre charcos, flotando como ofrendas.
+A lo lejos, una choza de madera hecha de sillas rotas, cortinas deshilachadas y huesos. Dentro, una silueta familiar: Hugo.
+Helena observa que frente a él, otra Helena está sentada con una bandeja en el regazo. Come sin masticar. El cuerpo le tiembla, pero sus ojos no parpadean.
+Come un poco más, princesa. Así ayudas al mundo...
+Ya no quiero papá...
+Hugo se levanta. Camina sobre las velas sin apagarlas. Se arrodilla frente a ella y le limpia la boca con un billete ensangrentado. El bosque se encoge. Los árboles de carne envuelven la choza.
+Helena sigue observando desde fuera y se escucha un canto de rezo. Las velas de los charcos se apagan.
+El cielo está gris y todavía no canta ningún gallo. Hortensia camina decidida con un machete en la mano hacia la choza. El vestido que lleva está manchado con algo que parece óxido. Se acerca al santuario. Los trapos colgantes se agitan como si supieran lo que viene.
+Esto se acabó...
+Rompe con el machete el primer poste. Las velas se caen. El suelo cruje. Rompe telas, rompe bancas. Los gritos de Hugo se acercan.
+¡¡Estás loca, mujer!!
+La agarra del brazo. Le arrebata el machete. El rostro de Hortensia cambia de rabia a miedo. Hugo la abofetea. El sonido resuena en todo el sueño como una campana de hierro.
+Aparece Helena de la oscuridad.
+¡NO, MAMI!
+El grito hace temblar el sueño. La escena se ralentiza. Hugo ahora es una figura grotesca, amorfa. Tiene múltiples brazos. Una de sus manos intenta alcanzar a Helena. Hortensia toma el machete del suelo, lo hunde en la espalda de su esposo.
+Helena, empuja el machete más profundo. Su vestido está destrozado. Hortensia no logra reaccionar. El cuerpo de Hugo se desvanece como si estuviera hecho de humo denso.
+Ahora ya podremos ser libres, ¿verdad mami?
+Los rezos vuelven. Pero ahora vienen desde dentro de Helena. Voces sin cuerpo. Voces rotas.
+Ahora el bosque se ve distinto. Es el mismo lugar, pero con tonos lúcidos, enfermos. Las ramas están cubiertas de carne cruda. Los hongos gigantes palpitan como corazones abiertos.
+Helena se encuentra de pie, con las manos y la boca manchadas de sangre. Sus ojos brillan como brasas.
+No quiero ser esto...
+Helena se despierta de golpe, cubierta de sudor. La habitación está oscura y no hay un solo sonido. Se sienta. Tiembla. Mira sus manos. No hay sangre. 
+Se levanta lentamente. Camina al escritorio. Abre un cajón. Saca una navaja oxidada, pequeña, usada para jardinería. La coloca sobre la mesa. A su lado, una nota en blanco.
+No queda nada. Mi madre está muerta. Yo también...
+Se sienta frente a la hoja. Mira fijamente la navaja. La toma entre los dedos. Sus ojos se empañan.
+Entonces, un estruendo. Se escucha a alguien caer pesadamente en la sala y luego a otro, . Voces graves se escuchan, acompañadas del crujido de botas y muebles siendo movidos.
+Está aquí. Revisen todo.
+Recuerden que la quiere viva.
+Helena reacciona, pero tarde. Gira hacia la puerta, pero ya se abre violentamente. Un híbrido la toma del brazo.
+¡Suéltame!
+Otro hombre entra con una jeringa. Helena forcejea, pero está demasiado débil. La jeringa entra en su cuello. Su cuerpo se ablanda.
+¡OIIIIIIINK!
+Helena despierta desorientada encerrada en una celda. El cuarto es blanco, clínico, sin ventanas. Solo una camilla y una mesa metálica. La luz es fría, casi azul. Se levanta con dificultad.
+Buenos días, Helena.
+¡¿Dónde estoy?!
+Relájate, estás en buenas manos. Soy la Dra. Elodia Rivas. Un placer conocerte.
+Elodia deja la carpeta sobre la mesa. La observa un momento.
+Elodia se mantiene de pie, impasible, con las manos entrelazadas frente a ella. Su rostro no muestra ni desprecio ni ternura. Solo un estudio meticuloso.
+Esto... no es un hospital.
+Correcto. Es un laboratorio.
+Luego presiona un botón junto a la puerta. Una pantalla desciende del techo. La imagen que aparece es la de Hortensia, sentada en una celda estéril. La mujer murmura algo que el audio no permite oír.
+Tu madre resistió el virus durante más tiempo del esperado.
+Helena siente un nudo en la garganta. Vuelve a mirar la pantalla. La imagen de Hortensia desaparece.
+Pero mi madre estaba sana antes de desaparecer.
+Ay querida, no estás entendiendo. Tu madre no llegó aquí por voluntad propia. Yo no trabajo con voluntarios. ¿Eres tú una voluntaria?
+Entra un secuaz y ata a Helena a la camilla.
+¡Aaaargh!
+Elodia entra a la celda.
+Le pedí a tu madre que me ayudara con un encargo entrando al depósito durante una entrega, no sospechó nada. Estaba tan preocupada por ayudar...
+Tanta amabilidad. Tanta ingenuidad. Fue decepcionante.
+Pensé que buscabas al cerdo.
+También, pero tu madre no cooperó, y hay algo en ti que es clave para la investigación.
+Elodia toma una inyección de su bata y la inyecta. Helena voltea los ojos en blanco. Su respiración se vuelve pesada. Tiembla. Se desmorona.
+Dos hombres entran. Uno la toma de los brazos, el otro de las piernas.
+Llévenla a la celda 64. No la alimenten en 3 días. Veamos cómo reacciona el virus en su cuerpo.
+Con ayuda de Chancho, Helena entierra la caja y le da dos palmaditas al pequeño en la cabeza a modo de agradecimiento.
+¿Estás bien con dejar las cosas así, Lena?
+Tengo que estar bien, voy a estar bien.
+Aquí estaré para apoyarte, Lena.
+La rubia la abraza de lado. Helena se tensa ante la cercanía de Adara, se sonroja, pero se mantiene en silencio.
+Somos amigas a final de cuentas. Sabes que siempre estaré para ti.
+Adara aprieta su abrazo y se separa de Helena sin más y se pone a acomodar un espacio con hojas para dormir en el bosque. Mientras tanto en la mente de Helena sólo resuena la palabra AMIGAS una y otra vez, se queda en blanco, pero al ver como la rubia parece no estar afectada como ella, suspira desanimada y se pone a ayudarla con las hojas.
+Sí... amigas.
+Perdón, sé que he sido grosera contigo.
+No lo has sido, Lena.
+Se acomodan de espaldas en el suelo cerca de la fogata que ya se ha extinguido y el sueño llega sin permiso.
+Si te soy sincera siento que me voy a arrepentir, pero esto me rebasa y ya no sé qué hacer... tengo miedo.
+Ay Lena...
+Adara abraza con fuerza a Helena, la castaña aprovecha y hunde su cara en el pecho de Adara, el silencio las invade. La pareja se separa ligeramente sin romper el abrazo, se ven a los ojos y Adara limpia las pocas lágrimas que salen de los acuosos ojos de Helena, la castaña la ve con la cara contraída.
+No llores Lena, está bien tener miedo. Además no estás sola, tienes a chancho... y me tienes a mí.
+Helena la mira un poco sorprendida al principio, después sonríe ligeramente.
+¿Pero me vas a besar o solo me vas a conso...?
+Adara no lo piensa dos veces, con la mano que mantenía su abrazo, aprieta su cintura hacia ella y la otra la toma por la nuca para acercarla contra su labios.
+Helena es silenciada a media palabra por el beso tan brusco que le da la rubia, está tan impactada por la intensidad del beso que intenta separarse de ella empujando la cadera de Adara, sin embargo, Adara se rehúsa a soltarla y termina aprisionando a Helena contra un árbol cercano mostrando su top ajustado y provocando que se separen un momento.
+Helena se queda admirando el físico torneado de la rubia haciendo que su ritmo cardíaco aumente y acerque su cadera. Adara toma el mentón de Helena con una de sus manos y la guía hasta su rostro.
+¿Te sigo besando o ya puedo seguir apoyándote?
+Ara, shhhhh.
+Helena se pone de puntas y le planta un suave beso a Adara. Adara se separa de Helena sin más y se pone a acomodar un espacio con hojas para dormir en el bosque. 
+Mientras tanto en la mente de Helena sólo resuena la palabra NOVIAS una y otra vez, se queda en blanco, y se pone a ayudarla con las hojas.
+No me voy a ir a ningún lado. También iría contigo a cualquier parte.
+Se abrazan en el suelo y el sueño llega sin permiso.
+Los tres van llenos de hojas y lodo seco caminando por la banqueta, el pequeño Chancho como siempre va en la delantera, seguido de Helena y justo detrás Adara, que va más feliz y relajada de lo normal.
+¿Entonces somos amigas?
+Sí, ¿qué más? Tanta carne te está atrofiando el cerebro, Ara.
+¿Entonces volvimos?
+Tanta carne te está atrofiando el cerebro, Ara.
+No hay que estar mucho tiempo en tu casa, hay que volver a la mía pronto.
+¿No quieres descansar un poco?
+Anoche dormimos en el bosque.
+Sí, solo voy a empacar.
+Va, después de eso nos vamos.
+Chancho es el primero en llegar a la casa, dirigiéndose directamente a las caléndulas de Hortensia. Helena está por llegar a su casa y de repente llega una van blanca polarizada.
+Alertadas por el ruido Adara y Helena corren hacía un callejón mientras ven con horror como bajan dos hombres de la van y Chancho es levantado del suelo y metido en el vehículo.
+La van acelera de reversa y sale de cuadro. Las chicas se pierden en el bosque cercano a la casa de Helena.
+Adara entra con cuidado al lugar, Helena va detrás de Adara. La rubia revisa con cuidado que la casa esté sola.
+¡Se llevaron a Chancho!
+Apenas anoche escapamos y ya saben dónde vivo.
+Esos hombres están detrás de esto.
+Maldición, nos alcanzaron muy rápido.
+Debemos escapar del pueblo, es cuestión de tiempo para que nos alcancen. No me siento segura ya aquí.
+Podemos ir a mi casa, ellos no saben de mí. Nos esconderemos en lo que nos vamos.
+Helena la voltea a ver triste, se endereza para quedar cara a cara con Adara, asiente.
+Adara le da un corto beso
+Llegan a casa de Adara y Helena sigue en shock mirando hacia el suelo.
+Deberíamos descansar un poco.
+Reacciona, Helena. Por favor. Tenemos que escapar ya, antes de que se les ocurra regresar por nosotras. No podemos quedarnos aquí a esperar que las cosas se calmen, este lugar ya no es seguro.
+Si entendí bien todo, sólo les importa el puerco, entonces con suerte ya no nos molestarán más ahora que lo tienen. Debemos irnos.
+¿Cómo puedes decir eso tan tranquilamente?
+¿Qué no ves lo que pasa? Sobrevivimos a costa de un pequeño.
+Yo también me encariñé de Chancho, Helena, pero estoy pensando en sobrevivir.
+Adara, por Dios, ¡se llevaron a Chancho!
+¿Quieres que me preocupe por escapar como si lo de hace rato no hubiera pasado? ¿Acaso no está en tus planes rescatarlo?
+¿Y qué, nos maten? Si de verdad querías enfrentar esto, no hubieras enterrado la caja. Ahora ya es tarde y yo estoy pensando en sobrevivir.
+Helena retira con brusquedad la mano de Adara, mientras la ve sin emoción alguna en sus ojos. Helena se levanta en silencio dejando a la rubia sin palabras. Se acerca a la ventana de la sala, recarga su mano en el vidrio y ve el jardín de Adara.
+No hicimos nada, y aún así en lo único que nos preocupamos sigue siendo en nosotras. ¡¿Qué no ves?! ¡Somos unas malditas egoístas!
+¿Y qué preferías que hiciera? Dejarte correr a salvar al niño solo te hubiera llevado a tu muerte, Lena. Esa gente no se anda con rodeos, entiende.
+¿Y de qué me sirvió haber evitado morir? Me siento horrible por dentro, Ara. Todavía no terminó mi luto por mi madre y ¿ahora esto? Esta es una maldita señal, yo no-
+Adara le tapa la boca a Helena, está con la cabeza gacha y sólo siente cómo las lágrimas de Helena corren por su mano y algunas se deslizan por su antebrazo. El silencio las invade, Helena sólo cierra los ojos sin resistirse al bloqueo de Adara.
+Basta Helena, no digas más... por favor. Me duele verte así, escucharte así, sólo... para, por favor.
+Helena se mantiene quieta, Adara quita su mano y procede a tomar sus manos para posarlos sobre su corazón.
+Sé que estás pasando por mucho ahorita, pero por favor no te rindas aún. Sé que no es mucho, pero me tienes a mí.
+Adara, no te confundas. No sabes cómo me afectó lo que me hiciste.
+¿Acaso crees que por lo que hicimos anoche ahora tienes el derecho de decir eso? ¿Pensaste que unos besos arreglarían todo? No te engañes, Adara, tú sabes perfectamente que esa promesa no la puedes cumplir.
+Helena se zafa de sus manos y se cruza de brazos frente a la rubia, la mira desafiante. Por su parte, Adara se ha quedado pasmada por las palabras tan filosas que le ha lanzado la castaña.
+Entiendo que falta resolver eso, pero no me quieras cambiar el tema ahora. Estamos hablando de qué vamos a hacer.
+Tú cambiaste el tema primero. Okay, va, es peligroso, incluso estúpido, seguir creyendo que podemos encarar a esa gente, pero ¿qué hago? ¿Regresar contigo como si nada hubiera pasado, como si todo aquello que me causaste se puede ignorar? ¿Hacemos eso? ¿Ignorar lo que pasó con mi mamá? Ni siquiera sé si en verdad está muerta, porque esa no era su carne. ¿O acaso entendí mal? Dime, te escucho. ¿Qué hacemos?
+No, nada de eso. Lo de tu mamá es algo muy serio, pero lo que tuvimos también fue algo serio y yo no pienso volver a...
+Del coraje repentino que le causan las palabras de Adara, Helena levanta los brazos mientras la encara con los ojos muy abiertos y la mandíbula apretada. Respira hondo y baja firme sus brazos en puños.
+¿Qué esta vez sí es en serio? ¡¿SÍ ES EN SERIO?! Adara, ¡me rompiste el corazón esa vez! No sólo me ilusionaste y luego dejaste que la realidad me azotara en la cara con tus crueles palabras, sino que además me humillaste. ¿Sabes cuánto tiempo me tomó sanar? ¡¿Eh?!
+No, por favor escúchame. Tú no me estás entendiendo. Sé que en el pasado te lastimé y-
+Me hiciste creer que sentíamos lo mismo. Que queríamos lo mismo. ¿Y qué pasó el día que traté de dar un paso adelante?
+La postura de pelea de Helena se rompe por el nudo en la garganta que se forma seguido de las lágrimas que inundan sus ojos. Se agacha ligeramente y se tapa la cara para ahogar su llanto.
+Lo siento, yo no...
+Destapa de un lado su cara destrozada de dolor, sólo para apuntarle con un dedo de manera acusatoria, su cara se contrae de dolor y se da la vuelta ignorando a Adara. Esta por su parte se intenta acercar más a la castaña, pero le levanta la mano a modo de detenerla. Adara ve su mano y agacha la cabeza derrotada.
+Lena... no sé qué decirte para que me perdones, pero quiero que sepas que esa vez...
+¡BASTA!
+Helena se aleja tapándose los oídos, Adara se acerca lentamente hasta quedar de rodillas a su lado.
+Fui una tonta, lo admito. No estaba lista y cuando tú lo estuviste no supe qué hacer, reaccioné de la peor manera... Lo siento, herí tus sentimientos y me siento terrible por ello.
+¡Já! Como si eso me importara ahora. Métete esto en la cabeza, Adara, esa labia tuya ya no tendrá efecto en mí. Yo ya no siento NADA, ni por ti ni por NADA.
+¿Ah sí? Pues qué mal. A mí tu disculpa ya no me sirve de nada, ya no soy la misma ingenua que se desvivía por ti y tus mentiras.
+Adara se acerca a Helena y esta la empuja dándole la espalda, desolada se abraza a sí misma encogiéndose un poco. Adara se muestra dolida ante la actitud de Helena.
+¿Hubieras preferido que nos mataran? ¿De verdad? Quiero escucharte decirlo, dime si no, Lena, ¿acaso no querías huir? Anoche nos juramos un futuro juntas, eso de 'No me voy a ir a ningún lado' ¿era mentira?
+Cállate, déjame en paz. ¿No me escuchaste? Ya no quiero estar contigo como lo quise antes.
+Helena, ¡ya basta! Ni me escuchas ni sales de tu hoyo. Estoy tratando de hacerte entender que he cambiado, que ahora sí haré bien las cosas contigo. Por favor, entiéndeme, Lena.
+¡No! Basta, Adara, cállate ya. No se trata de eso.
+Pues yo tampoco soy la misma. Poco me importa lo que se llegue a decir. Yo no bromeaba cuando te dije que iría a cualquier parte contigo. ¡Lena, entiéndeme, carajo!
+Helena se queda sorprendida ante la declaración de Adara, se quedan mirando sin palabras, la rubia pega su frente a la de ella y sus alientos empiezan a combinarse. La castaña la mira detenidamente, Adara está impaciente, pero a la vez teme la respuesta de Helena y aleja su rostro para seguirla viendo, ve sus labios y luego sus ojos.
+¿Qué me ves?
+No te estoy viendo.
+¿Qué estás haciendo?
+¿Qué estoy haciendo?
+Adara...
+¿Sí?
+Ara.
+Lena.
+Adara suelta las muñecas de Helena y se queda con los brazos recargados sobre la pared entre la castaña, Helena por su parte baja sus brazos y toma a Adara por la cadera, la acerca firme hacia ella.
+Esta es tu última oportunidad, arruínala y no vuelves a saber de mí.
+Te puedo dar una última oportunidad.
+Las manos de Helena viajan por la espalda Adara y luego suben hasta sus hombros solo para bajar sus tirantes, mostrando así el top ajustado que cubre su busto. Helena entonces lleva sus manos acariciando la suave piel del cuello de la rubia hasta llegar a su mandíbula y mejillas, con ambas manos sostiene su cara y con fuerza la jala hacia la altura de su ojos haciendo que Adara pierda un poco su compostura.
+¿Entendiste?
+Entendí, guapa.
+Helena sonríe de manera satisfactoria y le da un beso, Adara le responde intensificando más el beso. Helena lleva sus manos hacia el cabello de Adara y lentamente le va deshaciendo sus trenzas liberando así la larga y ondulada cabellera de la rubia. Adara detiene un poco el beso, mira con lujuria a Helena y desliza sus manos hasta llegar a sus glúteos.
+¿Puedo?
+Helena asiente mordiéndose el labio inferior, Adara la carga y ella reacciona prontamente enganchando firmemente sus piernas a la cintura de la rubia. Adara sube a Helena cargando hacia la habitación mientras traza un camino de suaves besos por el cuello de Helena. Helena se sobresalta y se empieza a reír nerviosamente. Al llegar arriba Helena suelta un gemido y Adara cierra la puerta detrás de ellas.
+Helena se despierta por la luz de la luna que baña la cama de Adara, el cabello de la rubia parecen ondas de oro dispersos en su brazo y almohadas, su respiración es tan tranquila que a Helena le da miedo moverse del brazo de Adara para evitar interrumpir su paz. 
+Admira sus largas pestañas, sus labios carnosos, el subir y bajar de su pecho. Helena se levanta de la cama y se pone su ropa, junta sus cosas, yéndose.
+Y yo aquí esperando que me despertaras con un beso, esto es lo que recibo por esperar aquí quieta.
+¿Qué ya no tienes prisa por huir? Ayer te preocupaba mucho.
+Helena se ríe de nervios y se tapa la cara al ver que la rubia siempre estuvo despierta.
+Me tienes a mí ahora, ¿de qué te quejas? ¿O qué, mi amor no es suficiente para ti?
+Tu amor es algo que no merezco, pero que cuidaré el tiempo que tú me permitas. Me alegro que después de tanto tiempo, por fin puedo decirte que te amo, Lena.
+Te amo.
+No puedo creer que esto sea real, han pasado tantas cosas estos últimos días. Lena, no me estoy equivocando esta vez ¿verdad? Yo te amo y tú lo sabes ¿verdad?
+Adara se levanta con ojos aguados. Tiene una expresión un tanto angustiada.
+Ay, Ara, de las cosas que te terminas preocupando. ¿Apenas ahorita te detuviste a pensar en eso?
+Yo también te amo, Ara. No te preocupes del pasado ni del futuro, sólo disfruta conmigo lo que tenemos ahora.
+Helena toma la cara de Adara entre sus manos y le da un suave y dulce beso. Ambas chicas ríen por lo bajo.
+¿Quedó claro? Es más, te lo repito: Adara, te amo.
+Helena toma una de las flores de caléndula que quedaron aplastadas por la van el día anterior, la admira con ojos tristes y una tierna sonrisa y la huele.
+¿Estás lista, Lena?
+Mmmm me pregunto lo mismo.
+Sip, vamos.
+Adara le extiende su mano a Helena, esta toma su mano y se levanta del suelo.
+Ara, ¿tendrás un libro que me regales?
+Claro, amor, ¿qué libro te gustaría?
+El que sea, es para esta flor de caléndula, la recogí antes de que se llevaran a Chancho. Llevaré una conmigo para siempre traer algo que me recuerde a mi madre y a Chancho.
+Te daré mi diario para que también me recuerdes a mí.
+La pequeña flor queda prensada entre las hojas del diario de Adara, Helena guarda el diario de cuero en uno de sus bolsillos internos de la sudadera, ahora es ella la que le extiende la mano a Adara, la rubia acepta el gesto entrelazando su mano con la de ella y equipadas con sus mochilas se van caminando hacia el alba.
+
+Helena entierra la caja. Su llanto se calma. El viento se lleva las últimas lágrimas.
+¿Segura que vas a estar bien con esto?
+Tengo que estar bien, voy a estar bien.
+Aquí estaré para apoyarte, Lena.
+Somos amigas a final de cuentas.
+Perdón, sé que he sido un poco grosera contigo.
+Pero no lo has sido.
+La verdad, no lo sé, me da algo de miedo.
+Está bien tener miedo.
+Es que no entiendo, ¿qué hicimos mal? ¿qué hice mal? ¿por qué sucedió todo esto?
+Me pregunto cómo llegamos hasta aquí.
+No lo sé, tal vez la noche nos lo diga.
+Adara está sentada en el sofá tomando un café. Helena, se sienta a la mesa. Chancho las observa.
+Ya lo pensé y... creo que debo irme de la ciudad.
+Vele el lado bueno, no sería la primera vez que huyes je...je...
+Helena sacude la cabeza a manera de desaprobación mientras se ríe. Mira a lo lejos un momento, se queda de brazos cruzados y suspira al voltear con Adara.
+¿Te quedarías a Chancho si me voy?
+¿No sería mejor irnos todos y ya?
+¿En serio quieres ir conmigo?
+No, Adara, entiende, debo irme sola.
+Te he estado esperando todo este tiempo. Déjame ir contigo.
+Pero y... ¿a dónde iríamos?
+No lo sé, Lena, hasta donde no recordemos lo que hemos pasado.
+Adara le extiende su mano a Helena, y esta baja sus brazos, antes cruzados, para tomar la mano de Adara entre las suyas y ponerla contra su mejilla. Cierra los ojos al contacto del calor de su palma y Adara se acerca un poco más hacia Helena.
+Que sea más lejos.
+Adara le sonríe a Helena y termina poniendo su otra mano en el rostro de la joven haciendo que esta la voltee a ver con con el ceño fruncido, pero con cariño saliendo de sus ojos. Sus cuerpos se aproximan los unos a los otros.
+Sus rostros siguen el mismo camino, Helena suelta la mano de Adara sin darse cuenta al quedar prendada de su mirada, se ruboriza y cierra los ojos con nerviosismo. Adara le responde con un cálido abrazo, pero Helena abre los ojos con una ligera mueca de dolor; le regresa el abrazo a la rubia y oculta su cara en su hombro.
+La casa está en silencio. Helena duerme en el sillón, envuelta en una manta. Chancho está a sus pies, hecho bolita. Adara ronca leve desde un sillón opuesto.
+¿Qué fue eso...?
+Otro ruido. Esta vez, más cerca.
+ Oink...
+Helena camina hacia la puerta. La abre lentamente. Nada. Silencio. Y de pronto...
+Híbridos entran a toda velocidad. Un gas se dispersa. Chancho grita. Adara salta de su lugar.
+¡No, no, no!
+Todo se vuelve confuso. Manos que sujetan. Gas que ahoga. Golpes secos. Voces apagadas.
+Helena despierta desorientada. Se levanta con dificultad.
+La puerta se abre y entra la Dra. Elodia Rivas.
+Su porte es calmo, su voz firme. Lleva su bata impecable, una carpeta en la mano.
+Secuaces de Elodia
+Buenos días, Helena.
+¡¿Dónde estoy?! ¡¿Dónde está Chancho?! ¡¿Dónde está Adara?!
+Elodia cierra la puerta con suavidad. Deja la carpeta sobre la mesa. La observa un momento.
+Todos están vivos. A salvo. Por ahora.
+¡¿Qué es este lugar?! ¡¿Quién eres?!
+Soy la Dra. Elodia Rivas. Tal vez has oído hablar de mí... aunque seguramente no como deberías.
+Helena da un paso atrás. Su rostro se crispa de furia y confusión.
+¡Tú...! ¡Fuiste tú!
+Baja una pantalla del techo, se enciende y muestra a su madre
+Sí. Pero no fue un acto de crueldad. Fue necesidad. Tu madre tomó algo. Protegía a alguien muy importante. Y eso... podía cambiarlo todo.
+¡La encerraste como a un animal! ¡La convertiste en uno!
+Yo no, el virus lo hizo.
+Tu madre es fuerte. Pero no pudo evitarlo. Nadie puede, cuando el virus se arraiga el cuerpo es afectado, pero su conciencia... resistió.
+¿Por qué lo hiciste? ¿Dónde está Adara?
+Adara está bien, ella tiene un propósito aquí, así como tú.
+Elodia abre la carpeta. Fotografías de Helena, informes, datos biométricos. Una imagen de su cerebro resaltado en rojo.
+Tu conciencia es distinta. Es como... una red. Estás hecha para sobrevivir a la mutación sin perderte. Eres una pieza perdida de esta evolución.
+¡Oh, claro! ¡Y ahora quieres que me una a tu secta de monstruos conscientes!
+No monstruos. Humanos, que entendieron que el cuerpo es efímero. Que lo único que vale la pena preservar es la conciencia. La autopercepción. La memoria. La capacidad de reconocer al otro.
+¿Qué somos sin eso, Helena? Solo carne. Solo miedo.
+Helena se queda en silencio. La voz de Elodia es suave, pero cortante como un bisturí.
+Tú puedes ayudarme. A salvar a los que están atrapados entre la mutación y el olvido. A tu madre. A Chancho. A Adara.
+¡No los toques!
+Ya lo hice. Pero juntas podemos deshacer lo que otros empezaron.
+Solo si trabajas conmigo. Si decides mirar más allá del asco, del miedo, y ves lo que podría ser el futuro.
+Silencio. Helena tiembla.
+No pienso trabajar contigo.
+Entonces se acaban las opciones. Y será tu elección que los pierdas.
+¿Qué dices Helena?
+Jamás.
+Trabajaré contigo y salvaré a mi mamá
+Perfecto, no te arrepentirás.
+Helena camina en silencio por el corredor aséptico del laboratorio.
+A su lado, la Dra. Elodia Rivas la guía con paso firme, sosteniendo una tableta con registros.
+Pasillos estrechos, iluminados con frialdad. Vidrios gruesos a los costados muestran otras salas: contenedores sellados, escritorios con monitores encendidos, tanques de oxígeno, cajas con etiquetas codificadas.
+Se detienen frente a una máquina refrigerada. Elodia abre un compartimento sellado y saca una pequeña bandeja de metal.
+En el centro: un cubo de carne cruda, pequeño, jugoso, pálido.
+Sujeto de prueba 64F. Edad treinta y siete. Conciencia previa estable, etapa de transición incompleta. Método de preservación: criogenía interrumpida.
+Le entrega el cubo a Helena en una pinza.
+Si ves algo, cualquier cosa... necesito que lo describas tal cual.
+Helena toma el cubo con recelo. Finalmente, lo lleva a la boca y lo muerde. Masticación lenta. Traga.
+De inmediato, sus pupilas se dilatan.
+Vemos a través de su mente: una habitación cerrada. Una mujer de cabello canoso y mirada extraviada. Cuerpo fracturado.
+Yo aún estoy aquí... yo... ¡yo soy!
+De golpe, la visión se apaga. Helena jadea y cae de rodillas, pero se repone rápido.
+Fragmentado... pero resistía. No completamente ida.
+Interesante. Anótalo.
+Se lo dice a una grabadora de solapa en su bata.
+¿Será esto real? ¿Será una visión más? ¿Una visión de mí misma?
+Elodia, tengo algo que decirte.
+A veces confundo la realidad con visiones.
+No sé si quiero seguir haciendo esto.
+¿Cómo?
+A veces no sé si esto es real... Es como si todo el tiempo acabara de comer carne.
+La mente suele protegerse distorsionando lo imposible. Pero esto, Helena, es tan real como el cuerpo que habitas.
+Es que no me gusta y no sé si en verdad estamos haciendo un avance.
+¡Claro que estamos avanzando! Que no veamos los resultados inmediatamente no significa que no los haya.
+¿Te vas a rendir con tu mamá, acaso?
+No, no, sigamos.
+Helena está sentada en una silla metálica.
+Un brazo desnudo reposa sobre un apoyabrazos acolchado. A su alrededor, pantallas y bandejas con tubos de ensayo. Elodia prepara una jeringa.
+Esto no dolerá mucho.
+Eso dijiste la última vez.
+Ya estoy acostumbrada a que todo me duela.
+La aguja entra. La sangre fluye, oscura, densa.
+¿Crees que si tengo esta habilidad... también tengo el virus?
+Elodia mira el tubo llenándose.
+Tal vez. El virus fue creado para adaptarse a cualquier entorno imitando capacidades animales: regeneración, resistencia, detección de vibraciones, hibernación... habilidades para sobrevivir al fin del mundo que se avecinaba.
+Pero lo tuyo... ver recuerdos a través de la carne... eso no existe en el reino animal.
+Entonces, ¿qué soy? ¿Un híbrido?
+Una anomalía. Algo nuevo. Algo que no debió existir, y sin embargo... estás aquí.
+La jeringa se llena. Elodia la retira y coloca el tubo con cuidado en una bandeja sellada.
+Y eso, Helena, es más fascinante que cualquier plan original. Porque la verdadera evolución... nunca es la prevista.{p=1.5}Por eso eres importante.
+Elodia y Helena caminan juntas en silencio. Elodia se detiene frente a una bifurcación. Mira a Helena. 
+Helena... necesito pedirte algo más.
+Helena se queda quieta. Ya sabe ese tono. Esa pausa. Ese algo más nunca es leve.
+Tu amigo. Chancho.
+Pensé que Chancho no te servía.
+Chancho alegra mis días aquí.
+Chancho podría ser la pieza fundamental. Su existencia podría reescribir todo lo que sabemos sobre transmisión de conciencia. No quiero destruirlo. Quiero entenderlo. Preservarlo.
+Él no confía en nadie. Apenas y se deja tocar por mí.
+Es una anomalía. Una joya de mutación espontánea. De animal a humano. Eso no estaba previsto en el virus MA.
+Helena no responde. El silencio es un campo minado.
+Necesito hacer pruebas con él. Solo observación clínica. Lecturas. No lo lastimaré.
+Helena frunce el ceño. Sus dedos juegan con el dobladillo de la bata.
+No lo forzaré. Pero si tú se lo pides...
+Pero déjame ver a Adara.
+Helena, Adara ya no está aquí.
+¿Cómo?
+La dejé ir, ella no me sirve.
+Déjame observar a Chancho, no le haré nada.
+No quiero que experimentes con Chancho.
+Helena, no vamos a avanzar si no lo observamos.
+Finalmente, asiente. Una vez. Breve.
+Oink... 
+Chancho entra con pasos dudosos. Mira todo. Luego ve a Elodia. Se queda junto a la puerta.
+En el piso hay dos círculos, uno verde y uno rojo.
+Hola cerdito. Si me entiendes puedes pararte en el círculo verde.
+Elodia se agacha a la altura del cerdo.
+¿Sabes quién eres?
+Oink...
+Si eres un cerdo párate en el círculo verde.
+Chancho se rasca la cabeza. Se sienta en la alfombra ignorando a Elodia.
+Elodia, en un cuarto contiguo, observa desde una ventana de cristal unidireccional. Se frustra.
+La puerta se cierra automáticamente a su espalda. Helena se acerca a la pantalla. Se enciende con un leve parpadeo.
+En ella, hay una toma de vigilancia. Su madre.
+Hortensia está sentada en una silla, frente a una pared blanca. Su cabello está recogido de forma torpe. Tiene vendajes en los brazos, pero está despierta. Se balancea suavemente. Tararea algo muy bajito.
+Helena no parpadea. No dice nada. Se queda mirando durante un largo rato. Observa cada gesto, cada movimiento leve de los dedos de su madre.
+La pantalla no tiene sonido. Solo silencio.
+Finalmente, Helena se gira. Camina hacia la cama. Se recuesta boca arriba, con los brazos cruzados sobre el pecho. Mira al techo. Sus ojos no parpadean. La respiración es pesada, pero estable.
+Te voy a sacar de ahí...
+Helena está sentada en la misma silla de siempre. Brazo extendido. Elodia prepara una nueva jeringa. Sus movimientos son suaves, médicos, casi mecánicos.
+Helena la observa con el ceño fruncido. Tiene ojeras, el cabello más desordenado que de costumbre.
+Ya pasó mucho tiempo. No me has dicho nada de Chancho.
+Elodia no responde. Se limita a colocar el torniquete y preparar la aguja.
+¡Elodia!
+Te dije que las pruebas tomarían tiempo.
+No me dijiste que me lo ibas a quitar.
+Estamos muy cerca.
+El virus Metamorfosis Adaptativa hubiera podido ser una joya maldita. Un diseño perfecto, liberado por desesperados.
+Su objetivo era noble: supervivencia. Climas extremos, hambrunas, toxicidad ambiental... Era la siguiente etapa de la humanidad.
+Pero no supieron esperar. Lo soltaron incompleto. Y mira dónde estamos ahora.
+Pausa.
+De casualidad... ¿comes muchos hongos?
+Helena parpadea, desconcertada.
+Soy... era... vegana.
+A veces comía setas del bosque. Mi madre me enseñó.
+No desde que estoy aquí.
+Estamos investigando si el virus puede adaptarse al reino fungi... Puede que hayamos encontrado algo.
+¿El virus MA en hongos?
+No creo que podamos llegar a esas conclusiones todavía.
+La luz está apagada. Helena está sentada en el piso junto a la cama. La pantalla donde suele ver a su madre está en negro. La habitación huele a humedad, encierro y desesperanza.
+Sus labios están agrietados. Sus brazos, marcados por pinchazos. Tiene bandejas con restos de carne sobre la mesa, todas medio llenas, apenas tocadas.
+Estoy harta...
+Se levanta. Cruza la habitación. Golpea la puerta. Una, dos, tres veces.
+¡AAAAAAAAAAAAH!
+Helena está frente a Elodia. Las luces frías, el mismo ambiente clínico. Hay una bandeja cubierta frente a ella. Elodia la destapa. Un nuevo trozo de carne cruda, brillante y rosada.
+Adelante Helena. Este es uno de los sujetos más prometedores que hemos tenido.
+Helena la mira largo rato. Finalmente, toma la carne. La lleva a la boca.
+Lo mastica. Traga. Y entonces...
+Lena... me gustaban las caléndulas.
+Helena se congela. Una lágrima baja por su mejilla. Su cuerpo comienza a temblar.
+La bandeja cae al suelo. Se rompe en dos. 
+No...
+¡ES ÉL! ¡ES CHANCHO!
+Se lanza sobre Elodia. Grita, empuja, quiere morder, golpear. Elodia, le inyecta algo en el cuello. Helena se tambalea. Dos hombres entran corriendo.
+¡Tú lo mataste! ¡Lo mataste! ¡Eres una maldita...!
+Los hombres la sujetan. Ella forcejea con una fuerza animal, pero ya está sedada. Es arrastrada por el pasillo.
+ No lo entiendes ahora. Pero lo harás. Pronto.
+La puerta de su habitación se cierra de golpe.
+Una bandeja de comida fría se encuentra intacta junto a la puerta. Sobre ella, carne cruda en trozos pequeños.
+Helena está encorvada en una esquina, con las rodillas contra el pecho.
+La puerta se abre. Elodia entra. Luce impecable. Fría. Inmutable. Lleva una tableta entre los brazos y se detiene frente a ella, sin bajar la mirada.
+Necesitas alimentarte.
+Helena no responde. Se limita a girar la cabeza hacia la pared.
+Sabes lo que estás rechazando, ¿no? El poder de ver. De recordar.
+No quiero ver nada más.
+Podríamos hacer historia juntas. Erradicar el miedo. Redefinir la humanidad.
+Pero prefieres pudrirte en este rincón, como si eso honrará algo. Como si esa resistencia fuera noble.
+Prefiero pudrirme que convertirme en ti.
+Elodia no reacciona. Sólo suspira.
+La habitación ha cambiado. Más fría. Sin cama. Sin pantalla. Sólo concreto, una cubeta, y un grillete en la pared. El metal está oxidado.
+Helena yace encadenada de un tobillo. El grillete le permite moverse sólo un metro y medio. No hay ventana. El aire huele a cloro y humedad.
+Días pasan. Sin voz. Sin luz natural. La carne sigue llegando. Y sigue pudriéndose.
+Jamás. Nunca voy a trabajar contigo. Eres una estúpida si pensabas que iba a cooperar.
+Elodia no se inmuta. La mira como si se tratara de una niña obstinada, no de una amenaza.
+¿Y crees que tu madre sí quiso cooperar? ¿Que fue voluntaria? No, querida... Yo no trabajo con voluntarios. Trabajo con resultados.
+Obtengo todo lo que quiero. Siempre. Aunque me digan que no.
+Elodia comienza a acercarse.
+Tu madre, durante su última entrega, le pedí que me ayudara a meter el encargo al depósito, no sospechó nada. Estaba tan preocupada por ayudar...
+Tanta amabilidad. Tanta ingenuidad. Fue su perdición. Le inyecté un sedante. Cayó como una hoja seca.
+Ni siquiera luchó. Fue decepcionante.
+Helena estalla. Grita y se lanza contra ella, los ojos brillando de odio.
+¡Maldita seas! ¡Te voy a matar!
+Elodia no se altera. Toma una inyección de su bata. Esquiva el ataque de Helena y le inyecta.
+Helena cae de rodillas. Su respiración se vuelve pesada. Tiembla. Se desmorona.
+La puerta se abre. Dos hombres entran. Uno la toma de los brazos, el otro de las piernas.
+Llévenla. Célula 64. Mantengan el régimen de ayuno por tres días. Luego... que coma.
+Helena está encadenada de ambos pies. Su cabello está enmarañado, su piel pálida. No ha comido. Apenas ha dormido.
+La puerta se abre con un zumbido. Entra uno de los hombres. En las manos lleva una bandeja con un pedazo de carne.
+Hora de comer.
+No quiero.
+No es una opción.
+La agarra por el cabello. Le abre la boca a la fuerza y empuja el trozo de carne contra su lengua. Helena se retuerce, pero sus fuerzas son escasas. La carne entra. Traga.
+El mundo se estira. La visión se distorsiona. Voces. Imágenes.
+Una granja. Hortensia. caléndulas. Chancho ven ya nos vamos. Helena despierta de golpe, escupiendo, confundida, entre vómito y lágrimas.
+Elodia aparece detrás del sujeto sobre la puerta.
+Tu conciencia sigue intacta. La red neuronal ha reaccionado. Tus memorias siguen sin colapsar.
+Helena se congela. Mira la bandeja vacía. Tiembla.
+Él fue un buen espécimen. Resistente.
+Helena grita. Golpea la pared. Sus cadenas tintinean. Rompe en llanto.
+La puerta se abre. Helena está más flaca. Esta vez, dos hombres con uniforme entran. Le quitan la cadena del tobillo. La levantan con brusquedad.
+¡Suéltenme!
+La arrastran por el pasillo. Su cuerpo está débil, pero la rabia la mantiene en pie.
+La atan a una silla de metal. La iluminación directa le quema la vista. Frente a ella, una mesa con una bandeja tapada por un paño blanco.
+Elodia entra.
+Hubo complicaciones. Tu madre... está en estado crítico. El sistema inmunoalterado no respondió bien a las modificaciones celulares.
+Está viva...
+Necesito tu habilidad.
+¡No voy a comer más carne!
+Si no lo haces... muere.
+Silencio. Helena tiembla. Mira la bandeja.
+Tú decides. Pero el tiempo no es tu aliado.
+¡Tú la enfermaste!
+Ella se debilitó por su apego. Por ti. Sólo estoy haciendo lo necesario.
+La señal es clara. Uno de los secuaces le abre la boca a la fuerza. El otro coloca el trozo de carne en su lengua.
+Helena se retuerce. Llora. Traga sin querer.
+Y entonces... {p=1.5} El mundo se rompe.
+Hortensia. Sonriente. Entregando carne a una figura oscura. Un trato. Un falso acuerdo. Una trampa. Una puerta que se cierra con violencia. El grito ahogado. Los días de encierro. Las voces apagadas. Las promesas rotas.
+Y en todo eso, Hortensia escribe en la pared, una y otra vez: Helena. Helena. Helena.
+Su amor convertido en mantra.
+La visión se rompe. La carne cae de su boca. Vomita. Llora como si algo en su pecho hubiera explotado. No hay grito que alcance para lo que siente.
+¡La mataste!
+La guiaste hacia eso. Tu silencio. Tu duda. Yo solo... le di un fin útil.
+Se acerca, le levanta la barbilla con un dedo.
+Y si no te decides pronto... Adara puede acompañarla.
+Las cadenas que sostienen a Helena ahora la atan por ambos tobillos.
+No habla desde hace días. No ha dormido. A veces respira tan lento que parece parte de las paredes. Un bulto que ha decidido morir sin morir.
+Elodia observa una pantalla. Se muestra la imagen de Helena sentada en la oscuridad, inmóvil, como si el tiempo no pudiera pasar en esa habitación. Un vaso con agua sin tocar. Un trozo de carne ya enmohecido.
+Un secuaz entra. Lleva una caja de metal sellada y una jeringa.
+Nueva muestra. 7 ml. Todo estable. Sin resistencia.
+Elodia recibe la jeringa y la gira contra la luz. El líquido rojo denso se desplaza lentamente.
+Eso es.
+Sin conflicto, la evolución fluye mejor.
+La jeringa es depositada en un contenedor junto a varias más. Cada una marcada con códigos, fechas y un simple nombre: H.L.
+Elodia da un sorbo a su taza de té. Observa el monitor.
+Gracias, Helena.
+Pasos. Lentos. Precisos.
+La puerta se abre con un chirrido que retumba en el metal. Elodia entra, como si visitara una exposición de arte. Lleva una charola envuelta en tela blanca.
+Se detiene frente a Helena, quien no la mira. No la reconoce. Tal vez ya no quiere.
+Elodia destapa la charola. Un nuevo trozo de carne. Esta vez, diferente. El color más oscuro. Las fibras visiblemente humanas. Cortes precisos.
+Helena no reacciona.
+Elodia extiende la carne. Se la da de comer a Helena. Helena la ve. La reconoce. No necesita que se lo digan. Helena cierra los ojos. No gime. No tiembla. Sólo dos lágrimas silenciosas ruedan por su rostro sucio.
+Elodia se marcha. La puerta se cierra. Nadie dice nada.
+Helena toma otro trozo de carne a la boca con las manos temblorosas. No por hambre. No por obediencia. Por deseo de verla una vez más. Por saber si fue verdad.
+Lo muerde. Traga. Y entonces el mundo vuelve a sangrar.
+Adara. Sonriendo. Escondida detrás de una pared, observando a Helena mientras riega las plantas.
+Adara abrazándola por la espalda mientras duerme.
+Y luego, Adara golpeando una pared. Gritando su nombre. Intentando escapar. Pero ya era tarde.
+Helena abre los ojos. No hay alarido. No hay fuerza para destruir. Sólo llanto.
+La carne cae de su mano. Su cabeza se apoya contra la pared. {p=1.5} Helena solamente desea morir.
+
+
+
+Por favor...
+...dime si ella me perdonó, ¡Te lo suplico!
+Vamos mi niña, solo tienes que probar un poco, ¿o es que no quieres ayudar a esta pobre mujer?
+Hugo, no la presiones.
+Tienes razón, confío en que nuestra chica buena hará lo correcto como siempre, ¿verdad, Lena?
+La carne gotea, manchándole la ropa. Helena la observa, con asco.
+No obstante, la pequeña cierra los ojos, respira profundo y, finalmente, le da un mordisco al trozo de carne.
+El mundo a su alrededor se desvanece.
+
+Ella... te odió hasta su último aliento.
+Helena se detiene al contemplar un agujero en la tierra..
+Observa las gotas de lluvia caer a sus pies.
+Se limita a cerrar los ojos, como si estuviera orando, y a recitar algunas palabras.
+Si no estás aquí, ¿dónde te encuentro?
+La muchacha con el pelo empapado se pone en cuclillas para colocar el arreglo floral a la cabeza del agujero.
+Toma la pala y duda si irse.
+Finalmente, ya más calmada, se retira del lugar, dirigiéndose a una zona más poblada que se vislumbra a la lejanía.
+Un grupo de cerdos se acerca, uno de ellos se queda mirando en la dirección por dónde salió Helena.
+El grupo detiene su caminata junto al agujero.
+El cerdo gira la cabeza para husmear qué hay al fondo del hoyo. No obstante, parece que no hay nada.
+Los cerdos continúan su camino. El cerdo comienza a seguir la misma ruta que Helena.
+En la zona más habitada del pueblo.
+Junto a la entrada del supermercado, una madre junto a un par de niños piden limosna.
+Cuando Helena pasa junto a ellos, la mujer le pide una limosna, mugidos se le escapan cada tanto mientras trata de comunicarse.
+La joven avanza con pasos constantes pero inseguros y busca con la mirada el pasillo al que debería dirigirse. 
+Ve a la sección de carnes.
+Aquí puedo verificar mi cupón
+Cupón escaneado
+Enfermedad terminal.
+Muerte brutal que dejó sus restos en muy mal estado.
+Edad avanzada.
+Tatuajes o arreglos estéticos que pueden afectar el sabor.
+Aquí no está.
+Helena se frota los brazos con las manos mientras avanza. El lugar es extremadamente helado.
+Se detiene en seco, con los ojos bien abiertos. Los dedos le tiemblan un poco, su respiración también lo hace.
+Sus dedos chocan con la mano de alguien más.
+Se gira para ver a quién le pertenece la mano, y le sorprende ver de quién se trata.
+¡¿Te querías comer a mi mamá?!
+¿Tan mala idea tienes de mí, Lena?
+Helena:
+No entiendo por qué sigues aquí
+Dime qué haces aquí
+Ya sabes, como tienes problemas con esto de la carne, creí... no sé, pensé que quizás no ibas a querer saber nada de los restos de Hortensia.
+Helena mira la bandeja, la toma con lentitud y Adara termina soltándola.
+Es mi mamá, o por lo menos lo que queda de ella. Prefiero que esto se quede conmigo a que acabe servido en la mesa de algún extraño.
+Yo no soy una extraña, Hortensia también era importante para mí.
+Helena se mantiene en silencio sin voltearla a ver.
+Perdón, debí preguntarte antes de venir en lugar de asumir las cosas.
+Yo tampoco quería que su cuerpo terminara como una cena más o algo así. Y... lamento mucho lo que le pasó, fue algo... inesperado.
+Si fue inesperado para ti que trabajabas con ella, imagina qué tan inesperado fue para mí.
+Toma otras dos charolas del mismo lote, el lote de su madre.
+Helena, yo no estaba con Hortensia cuando sucedió el accidente, 
+ni siquiera me dejaron verla luego de que me enteré de que le había pasado algo.
+Helena ignora a la rubia
+No me crees, ¿verdad?
+¿Debería hacerlo?
+Adara abre la boca, mas no sale palabra de ella. Ante esto, Helena se gira, dispuesta a salir por donde llegó.
+Lena, espera, por favor.
+Helena se detiene frente a ella.
+Sobre lo otro que pasó, ya no soy así y yo no...
+Este no es el momento para hablar de eso.
+Pero en serio quiero que arreglemos las cosas...
+Pues yo no.
+Si de verdad querías arreglar las cosas, pudiste haber empezado siendo la primera en avisarme lo de mi mamá.
+Helena regresa la vista al frente y se retira del lugar. Adara, por su parte, suelta un suspiro y se queda en donde está.
+Helena observa las charolas de carne con una mirada fría y afligida. 
+La chica entra a la casa. Se deja caer sobre el sofá principal.
+Helena observa las charolas de carne con una mirada fría y afligida.
+Un par de arcadas la atacan.
+Así que te convirtieron en esto...
+Hoy es 12 de mayo, y mi mamá falleció hace 4 días, el 8 de mayo. Creo que la fecha de procesamiento está mal...
+La joven revisa las etiquetas de las otras charolas, y se percata de que la fecha de procesamiento también es incorrecta en ambas.
+Le da vueltas al extraño error durante algunos minutos, y termina tomando la decisión de marcar al número de atención al consumidor para reportar el error.
+Atención al cliente de Novacárnicos, ¿en qué puedo servirle?
+Buenas tardes, llamo para reportar un error en la fecha de procesamiento de un lote.
+Si fuera tan amable de proporcionarme el código del lote.
+Espere un momento por favor... Le confirmo la información del lote: Lote 24H-0325-7A, procedente de Verónica Pérez Ramírez, ¿es correcto?
+No hay ningún lote con ese código.
+No, no, no, ehhh...la persona, el nombre de la persona también está mal. El lote es de Hortensia González Serrano.
+No señorita, aquí dice que el código de lote que me proporcionó, pertenece a Verónica Pérez Ramírez, con fecha de procesamiento del 8 de mayo.
+Certificado 'Sana y Fuerte' aprobado, individuo en óptimo estado de salud antes del procesamiento,
+sin historial de enfermedades degenerativas, alimentación balanceada y nivel de actividad física adecuado. ¿Estoy en lo correcto?
+Ehhh... sí, los datos de la fuente están bien, pero lo demás no, le repito:
+La mujer se llama Hortensia González Serrano, y la fecha de procesamiento debería ser el 8 de mayo.
+Según la información que me arroja el sistema, no hay registro de que ninguna Hortensia González Serrano haya sido procesada,
+ni en esta ni en ninguna otra planta correspondiente a Novacárnicos.
+
+¿Continúa al otro lado de la línea, señorita?
+¿Y si lo intenta de nuevo? Es Hortensia con 'h', González con acento en la 'a' y 'z' al final, y Serrano con...
+Con 's' al inicio y doble 'r', sí sé escribir, señorita.
+ Como le comentaba, no hay registro de que ese cuerpo haya sido procesado con nosotros, ¿le puedo ayudar con algo más?
+Debe haber un error, ¿y si intenta...
+En estos últimos 20 años, desde la propagación del virus MA y posterior legalización de la necrofagia, nuestro sistema nunca,
+Jamás, ha presentado ni el más mínimo fallo, por lo que puede estar segura de que la información que le proporcioné es correcta.
+Ahora, dígame, ¿le puedo ayudar con algo más?
+El corazón de Helena se acelera, su pecho sube y baja aumentando cada vez más la velocidad.
+¿Señorita?, ¿le puedo ayudar...?
+No, con eso es suficiente.
+Helena cuelga.
+No entiendo qué está pasando,{p=1.5}no entiendo nada...{p=1.5}ojalá estuvieras aquí...
+ojalá pudiera saber... {p=1.5} te extraño tanto.
+Ya no quiero... no quiero más.
+No quiero comerla...
+... no quiero tocarla...
+... no quiero ser esto.
+Su madre la observa y escucha con atención, con una expresión arrepentida, culpable.
+¿Nací para ser esto?
+Ante la pregunta, Hortensia se queda en silencio. Abraza a su hija con más fuerza contra su pecho.
+Está bien.
+Si eso es lo que quieres, está bien.
+¿Así que quieres dejar de comer carne? Pues muérete de hambre.
+Hortensia mira a Hugo con desprecio y trata de cubrir más a la pequeña con sus brazos.
+Prefiero eso.
+La chica toma uno de los paquetes, le quita el plástico y saca un trozo de carne con lentitud, agarrándolo solo con la punta de los dedos.
+Lo contempla con repulsión, más comienza a acercarlo a su boca.
+¿Pruebo la carne?
+No puedo creer que voy a hacer esto de nuevo.
+No quiero comerla...
+Helena cierra los ojos con fuerza y, sin pensarlo más, le da un mordisco a la carne y se lo pasa.
+Se cubre la boca con una mano cuando la carne amenaza con salir.
+Y entonces... nada.
+Tal vez necesito comer un poco más...
+Sin previo aviso, las extremidades del cuerpo de Helena se tensan tanto que comienzan a tiritar
+sus manos se hacen puños, su espalda se arquea, su cabeza se echa para atrás, sus ojos se tornan totalmente rosados, casi rojizos
+ y sus dientes ejercen fuerza los unos sobre los otros, emitiendo un rechinido que se siente solo de escucharlo.
+
+De golpe, Helena abre los ojos, jadeante, volviendo al momento presente, a su cuerpo, a su realidad.
+Está agitada y gotas de sudor le corren por la frente.
+Ay, hace tanto que no sentía esto, es tan... doloroso.
+Pero es incluso más doloroso saber que tú no eres mi mamá.
+Helena se levanta del sillón y sale de la casa.
+Helena se apresura a llegar al pasillo en donde estaban los restos de su madre.
+Los paquetes que estaban cerca del de mi mamá no sólo fueron procesados por la misma empresa{p=1.5}sino que también tienen fechas de procesamiento cercanas. Si su carne está en algún lado, tiene que ser ahí.
+La castaña toma una charola de cada lote que sospecha que podría corresponder en realidad al de su madre. Apila los paquetes como puede, uno sobre otro.
+Compra todos los que puede.
+Helena entra a la cocina cargando varias bolsas.
+Te voy a encontrar.
+Toma un paquete de carne al azar y lo abre velozmente. Saca un pedazo de carne, lo muerde y se lo traga a regañadientes. Y el mundo a su alrededor se desvanece. 
+Helena ve imágenes fugaces.
+El proceso se repite una y otra vez y, con cada trozo de carne consumido
+Ninguno es la mamá de Helena.
+Solo nombres. Solo muertes. Solo historias que no son la tuya.
+¿Cuántos más, mamá?, ¿cuántos más tengo que tragarme para encontrarte?
+Helena se talla la boca , para limpiarse los restos de sangre
+Se escuchan ruidos extraños afuera y decide ir a inspeccionar.
+Helena sale de la casa, extrañada, y busca con la mirada el origen del ruido.
+Macetas destrozadas, tierra regada por el piso, flores arrancadas marchitándose y un cerdo en el center de todo, con una flor de caléndula en el hocico.
+¡Maldito puerco, deja ahí!
+El cerdo voltea a ver a Helena, todavía masticando la flor.
+La chica camina hacia el puerco y trata de mover de lugar la maceta de caléndulas.
+Sin embargo, el cerdo se levanta en sus patas traseras y agarra la maceta con las pezuñas. 
+¡¿Un fracturado?!, ¿cómo llegó hasta aquí?
+Forcejean. El cerdo comienza a chillar, lo cual irrita más a la muchacha.
+El cerdo sigue chillando, pero no trata de seguirla. Helena entra a su casa.
+Pone la maceta, con algo de brusquedad, sobre la encimera de la cocina, junto a una ventana.
+La chica busca una bolsa de basura y, cuando la tiene, comienza a meter dentro de ella todos los desechos que quedaron de las bandejas de carne que probó.
+Deja la bolsa por un lado, y ahora recoge los paquetes que siguen intactos, los que ni siquiera abrió.
+Helena mete las bandejas con descuido al refrigerador, empujandolas hasta el fondo para que quepan todas.
+Finalmente, cierra la puerta con fuerza, provocando que varios imanes, tickets y demás papeles, que estaban adheridos caigan al suelo.
+¡Ahg!, ¡lo que me faltaba! Por si el día no se podía poner peor.
+Helena se apresura a recoger las cosas. Imanes, tickets de compras, postales, una nota extraña...
+No puede ser. Es la letra de mi mamá.
+Se pone de pie velozmente y deja todas las cosas que tomó del piso sobre la encimera, quedándose únicamente con la nota, en la cual se lee:
+¿Recuerdas cuando fuimos de campamento al bosque? Fue un día maravilloso, te veías tan adorable en la foto que te tomé ese día. ¿Deberíamos ir de nuevo?
+¿Es todo? Pero... ¿qué quería decir? Si ese día fue horrible nos picaron los insectos, olvidamos la casa de campaña,
+llovió durante toda la noche, se nos terminó el agua... ella también odió ese día.
+Helena se queda repasando lo que dice la nota durante un momento. Y, de la nada, parece que algo hace clic.
+La chica sale casi corriendo de la cocina, en dirección a una habitación.
+No había entrado aquí desde lo que pasó. Se siente... extraño.
+La foto, ¿dónde quedó esa foto?
+Aquí no está.
+Bingo.
+
+Al terminar de leer la nota, Helena se sienta sobre la cama, confundida y con el ceño fruncido.
+¿En qué te metiste para terminar así, mamá?
+¿De verdad era algo tan importante para ti?
+Y si así era, ¿por qué no me lo contaste?
+Se guarda la foto en uno de los bolsillos de su ropa.
+Necesito respuestas, y si Adara las tiene... creo que no queda nada más que pensar. Tengo que ir a verla.
+Pero todavía estoy molesta y la verdad no la quiero volver a ver.
+¿Voy con Adara?
+No la quiero volver a ver.
+Tengo que ir a verla.
+Helena se pone de pie y sale de la habitación.
+Helena pasa por la cocina, lista para seguir hasta la sala y salir de la casa, pero un ruido raro llama su atención.
+La ventana de la cocina está abierta y sobre la encimera, en donde antes solo estaba la maceta, se encuentra al cerdo comiéndose las flores de caléndula.
+¡Otra vez tú, marrano!
+El cerdo gira para verla.
+Oink, oink
+¡AGH!
+Enfurecida, le quita la maltratada maceta, lo levanta con las manos, asegurándose de mantenerlo alejado del resto de su cuerpo, y lo carga hasta afuera de la casa.
+Helena deja al cerdo en el piso, para después limpiarse las manos. El cerdo se sienta y se le queda viendo con atención.
+¿Contento? Ya echaste a perder mis flores, ¿ahora qué quieres?, ¿qué se te antoja?, ¿bugambilias?, ¿dientes de león?, ¿albahaca?
+El cerdo se acerca a Helena y comienza a olerle los zapatos. Después de un momento, decide aferrarse a una de sus piernas.
+Helena lo observa, todavía más molesta, y empieza a agitar su pierna con violencia hasta que logra soltarse del agarre del cerdo.
+Sabes qué, no me importa, puedes comerte lo que quieras, yo me voy.
+La castaña se encamina a casa de Adara, pero escucha unos pequeños pasos siguiéndola. Mira hacia atrás, y nota al cerdo siguiéndola.
+¡Shu, shu!
+Su pobre intento no ahuyenta al animal, por lo que decide ignorarlo y continuar avanzando. El cerdo la sigue a unos metros de distancia.
+No tengo tiempo para lidiar con esto.
+Helena y cerdo se dirigen a la casa de Adara.
+Helena está nerviosa y con los brazos cruzados al pecho y los hombros tensos, ignora que el pequeño cerdo se mantiene escalones abajo olfateando el jardín de la entrada.
+La joven timbra y espera mirando las plantas tan frescas que crecen en el pequeño jardín y en su cara surge una pequeña sonrisa. Hacen contacto visual en completo silencio.
+Vaya, pensé que ya no querías volver a verme.
+No te emociones, si vine es porque necesito respuestas... es sobre mi mamá.
+Helena ve de reojo que el puerco se acerca y con el ceño fruncido lo aparta con el pie. Adara duda un momento en dejarla pasar, respira hondo y abre por completo la puerta.
+Helena se adentra en la casa, de repente Helena se percata de los pasitos del cerdo detrás de ella, molesta se voltea a verlo. Este rápidamente regresa a la entrada y se sienta de manera cohibida.
+Ahh, Cerdo...
+El cerdo bufa desde afuera cortando el tenso silencio que se forma en la sala. 
+Bueno, dime, ¿qué pasó?
+Dicen que murió. Pero la carne... no era de ella.
+¿Estás segura de eso?
+Sí. Ninguno de los paquetes eran de ella.
+Oh la probaste...
+¿Y por qué vienes a mí ahora? Después de tanto tiempo.
+Porque mi mamá confiaba en ti.
+Porque... no tengo a nadie más.
+Adara suspira, se levanta y se da la vuelta para dirigirse a su cocina. Le deja unas verduras en la barra. 
+Ten, no eres tú misma ahorita, esto te ayudará.
+No tengo hambre
+Mmm okay, pero no te pregunté si tenías.
+Gracias, no tenías que preocuparte.
+Disfruta
+Estos últimos días noté que Hortensia actuaba un poco extraño, siempre estaba viendo a lo lejos o detrás de nosotras cuando íbamos arriba del camión... estaba algo paranoica, me decía que la tenían en la mira.
+¿Quién? Nunca me contó nada.
+No estaba segura. Me dijo que encontró algo... alguien muy importante, esas personas querían lo que encontró.
+Pero entonces,
+¿Puede que mi mamá siga viva?
+¿Esas personas tienen que ver con la desaparición de mi mamá?
+Sí, puede ser
+Helena se levanta de su lugar abruptamente y mira a Adara con una expresión entre alivio y miedo.
+¿En serio lo crees? Ahora todo tiene sentido.
+Eso también significa que mi mamá está en peligro ¿no? Tengo que buscarla ya.
+Helena se da la vuelta para irse, pero Adara alcanza a tomarla del brazo y jalarla contra sí, deteniéndola en seco.
+¡Lena! Tranquila, respira, sé que estás preocupada, pero primero debes pensar bien lo que vas a hacer, tú también pudieras estar en peligro.
+Helena empieza a hiperventilar y Adara termina abrazándola fuertemente. Helena siente como Adara le empieza a sobar la espalda y termina por calmarse contra su pecho, ahogando un grito.
+Shhh... déjalo salir Helena, un día a la vez, pero ahora, ¿qué te parece si mejor comemos algo?
+Helena se separa del cobijo de sus brazos, se talla la cara para limpiarse el rastro de su llanto mientras asiente.
+Vale, pero esto no significa que te voy a perdonar.
+Sí sí sí vente ándale.
+Helena termina comiendo frente a Adara, Adara le sirve una pequeña calabaza al cerdo dejándolo pasar al comedor.
+Creí que no volvería a verte.
+Yo también lo pensé.
+¿Y cómo has estado?
+Bien, aprendí a cocinar.
+Helena sigue meneando su comida sin mucho ánimo.
+Está muy rico.
+Aún haces esa cara cuando pruebas algo salado.
+No sabía que lo notabas.
+Se miran la una a la otra, Adara se cruza de brazos y se acerca a Helena recargando sus codos en la barra. Discretamente Helena admira los brazos tonificados de Adara y se tapa la boca con la otra mano para disimular su sonrisa.
+Adara se da cuenta de la mirada curiosa de Helena, pero su momento es interrumpido por un ruido proveniente del jardín.
+Oink oink oink
+Si vas a investigar mañana temprano, es mejor que descanses aquí.
+Adara la voltea a ver con una ceja levantada.
+Ay, sabes que no lo decía con esa intención.
+Bueno, pero ¿estás segura?
+No pienso echarlos, además...ya viste que aquí siguen estando tus cosas, puedes dormir en el cuarto si así lo deseas.
+Ese ya no es mi cuarto.
+El puerco va a dormir afuera. Yo dormiré en el sillón, gracias y buenas noches.
+¿Contigo?
+Sí.
+Pues sí podría dormir arriba, hoy no tuve un buen día.
+El puerco va a dormir afuera.
+Oiiiiink
+Helena se acomoda en el sillón y se da la vuelta escondiendo su cara contra el respaldo, Adara se despide del cerdo para tranquilizarlo y se va a su cuarto. El cerdo se acuesta afuera de la casa. En realidad, nadie duerme del todo bien esa noche.
+Adara se despide del cerdo para tranquilizarlo y Helena entra a la habitación de Adara. El cerdo se acuesta afuera de la casa. En realidad, nadie duerme del todo bien esa noche.
+Apenas se asoman los primeros rayos de sol por la ventana de la sala que da al jardín, el cerdo rasca la puerta de la entrada. 
+Ya extrañaba dormir contigo.
+Adara, estaba muy mal ayer, no empieces, además no pasó nada.
+Está bien, no te preocupes.
+Adara sale bostezando de su habitación. Adara le abre la puerta al cerdo.
+¿Mala noche?
+¿La tuya no?
+Bueno, ¿y cómo fue que...
+Adara apunta al cerdo, quién se ofende y sale al jardín.
+No sé, me sigue desde hace días.
+Pero ¿por qué?, ¿qué hiciste? Pensé que te causaban repulsión.
+Pues ya ves. Pongamosle un nombre, ¿qué tal Chancho?.
+Me parece bien.
+Helena se levanta del sillón para estirarse. Adara se mete a la cocina y se pone a preparar el desayuno, Chancho entra.
+¡Anda despierta! Ya sé quién puede ayudarnos.
+El cielo está nublado. Helena, Adara y Chancho caminan por una calle olvidada, donde el concreto está agrietado y las paredes están cubiertas de grafitis descoloridos.
+Los únicos sonidos son los del viento y los pasos del trío. Chancho olfatea al aire preocupado.
+¿Con quién vamos?
+Es un colega que Hortensia y yo conocimos, solía contar historias locas. Ella nunca le perdió el contacto.
+El cerdo se muestra inquieto desde que entraron a la zona. Sus orejas se mueven en todas direcciones. No se despega de Helena ni por un segundo.
+Adara los lleva hasta una estructura que parece más una bodega blindada que una vivienda. Hay una sensación extraña en el aire. Adara golpea la puerta principal con firmeza.
+Silencio... {p=1.5} Vuelve a golpear. Esta vez con un ritmo específico.
+Un momento después, una rendija metálica se desliza desde dentro. Unos ojos hundidos y oscuros los observan desde el otro lado.
+Dije que no iba a hablar con nadie más.
+No soy nadie más. Ábreme. Es sobre Hortensia.
+Silencio. {p=1.5} Adara entra primero. Luego Helena, y Chancho.
+Ustedes no deberían estar aquí.
+Queremos saber qué pasó con mi madre.
+Sus ojos se desvían hacia Chancho. Lo examina con detenimiento.
+Así que es cierto... el cerdito existe.
+Se llama Chancho.
+Chancho se esconde ligeramente detrás de Helena, pero no deja de mirar al hombre.
+¿Qué quieren saber?
+¿Sabes qué le pasó a mi mamá?
+Es difícil de explicar.
+¿Qué sabes de Chancho?
+Un sujeto en observación. Ni siquiera sé cómo llegó a ser lo que es. Pero tu madre... lo protegió.
+Adara y Helena intercambian una mirada.
+¿Crees que aún lo estén buscando?
+Es probable.
+¿Mi madre te dijo algo antes de desaparecer?
+Hortensia me contactó poco antes de desaparecer.
+Dijo que había encontrado algo... Lo escondió. Me pidió ayuda para mantenerlo seguro.
+Le debía algunos favores. Así que acepté sin hacer preguntas. Ella me agradeció, como siempre. Dijo que volvería pronto... Pero, bueno... no volvió.
+
+El contacto camina hacia una estantería y saca un sobre maltratado y sucio, con cinta adhesiva en los bordes. Se lo tiende a Adara, quien lo toma con cautela.
+¿Qué es esto?
+Algo que logré recuperar después de que las cosas se pusieron feas.
+Adara abre el sobre con cuidado. Fotos y papeles arrugados caen sobre la mesa.
+Entre ellos, destaca una hoja blanca, amarillenta por el tiempo. {p=1.0} En el center, a máquina: “SUS SCROFA SUJETO EN OBSERVACIÓN” 
+¿Ese es su archivo?
+Una vez alguien entró aquí. Me revolvieron todo. Pero no se llevaron nada. Parece que no encontraron lo que buscaban.
+Helena sostiene la hoja con el nombre “SUS SCROFA” con fuerza.
+Un vehículo oscuro se detiene frente a la casa. No apaga el motor. Sólo permanece ahí, vibrando, dejando que su presencia se anuncie con ese zumbido mecánico constante.
+El contacto se aproxima a uno de los monitores de vigilancia. Cambia de cámara. Su ceño se frunce.
+¿Alguien los siguió?
+No... No que sepamos.
+El contacto se congela un segundo para ver el monitor.
+Ajusta el enfoque de la cámara
+
+Tienen que irse.
+Chancho se sobresalta y se esconde tras un grupo de cajas oxidadas. Helena se levanta de golpe, alerta.
+Sabemos que están ahí.
+...Ella los envió.
+¿Quién?
+Elodia Rivas.
+Ella debió llevarse a tu madre. Investigación clandestina. Oscura. Fracturados. El virus. Vienen por él.
+Apunta a Chancho. El niño, aún tras las cajas, aprieta los ojos con fuerza.
+Elodia no aceptó sus errores e insiste en seguir cometiendolos, ella aparece en los registros, pero todo pasa por ella. Tu madre...se cruzó en su camino. Y cuando eso pasa... no hay vuelta atrás.
+El contacto se apresura. Abre un compartimento en el suelo, oculto bajo una lámina y una alfombra rota. 
+Aquí está todo lo que logré juntar. Información, nombres, rutas, fechas. No es mucho... pero será suficiente.
+¡Por la ventana trasera! ¡Ya!
+Adara no duda. Corre hacia la parte de atrás. Quita el seguro de una ventana estrecha, empuja el marco que cruje con el esfuerzo, astillado cae al suelo. Chancho se lanza primero ágilmente. Helena lo sigue con la caja metálica contra el pecho.
+¡No se detengan! ¡No miren hacia atrás!
+Justo cuando Helena atraviesa el marco, alcanza a escuchar cómo la cerradura cede. La puerta principal se abre de golpe.
+Dentro de la casa, se escucha un golpe sordo. Un ruido seco. Luego, voces. Y después, silencio.
+Los tres corren por un callejón angosto rodeado de matorrales secos y cercas rotas entre montones de chatarra, basura acumulada y muros carcomidos por la humedad. Helena abraza la caja metálica con fuerza.
+¡Rápido! ¡A la izquierda!
+El sol comienza a esconderse tras las nubes. El aire es espeso, cargado de polvo y tensión. El camino se vuelve de tierra. Comienzan a internarse en el borde de un bosque gris y húmedo.
+Ya no se oye a nadie detrás de ellos, pero ninguno se detiene todavía.
+Chancho respira con dificultad. Helena se detiene por fin, jadeante, con la caja metálica apretada contra su pecho.
+Se han adentrado en el bosque. Adara se seca el sudor con la manga. Helena camina en círculos breves, perdida en su propio cuerpo.
+¿Nos siguen?
+Adara niega con la cabeza, aún sin aliento. Silencio. Solo el murmullo del viento entre los árboles.
+No puedo más... Esto va más allá de mí y de mi mamá.
+Lo sé, pero ahora estamos en esto.
+Helena agacha la cabeza. Sus lágrimas se deslizan sin control por su rostro en silencio. Adara se acerca a Helena y toca su brazo.
+Lena... no tienes por qué seguir si no quieres.
+No tengo idea de qué está pasando. No sé si quiero saber. No sé si... quiero seguir.
+Nadie te obliga a seguir buscando, pero admito que no serías tú si no lo haces.
+¿Y tú qué harías?
+Yo... Me iría contigo, a cualquier parte.
+¿Y si solo... seguimos adelante sin mirar atrás?
+Acepto
+¿Y si solo... seguimos adelante sin mirar atrás?
+Debo seguir investigando.
+Helena vuelve la mirada a Chancho. Él la observa sin juicio. Inocente. Humano y no.
+¿Y si lo dejamos aquí?
+Hay que quedarnoslo.
+Se han detenido junto a unas piedras cubiertas de musgo improvisando un campamento entre raíces y piedras.. Adara enciende una pequeña fogata. Chancho se acurruca contra un tronco.
+Helena se sienta sobre una piedra húmeda. Apoya la caja metálica en sus rodillas. La observa como si pesara una tonelada. No la abre. Solo la mira.
+Y entonces, rompe en llanto.
+No un llanto de pánico. No uno histérico, sino uno lento, contenido. De agotamiento. De duelo. De estar perdiéndose. Chancho se le acerca. No dice nada.
+Chancho saca de su bolsillo una flor aplastada —una caléndula medio deshecha, embarrada— y se la ofrece. Es un gesto torpe, infantil, pero sincero.
+Helena la toma con manos temblorosas.
+Lo único que tengo claro... es que si la encuentro, quiero que esté viva. Y si no... quiero saber por qué.
+Entonces eso haremos. Buscar respuestas. Aunque duelan.
+Por ahora, han decidido seguir, pero la duda sobre su madre, sobre Chancho, sobre sí misma, se ha vuelto una semilla viva en su interior. Y está creciendo.
+Una pequeña fogata se ha extinguido hace rato.
+Adara duerme recostada cerca de la fogata. Chancho reposa hecho bolita a sus pies. Helena se ha sentado cerca, con la caja metálica entre las piernas. La mira en silencio.
+El sueño llega sin permiso.
+Sé una buena niña... solo un bocado más.
+¿Dónde estás?
+Helena se despierta de golpe. Jadea, se lleva una mano a la boca. Está cubierta de sudor.
+Adara se ha despertado también. La observa, sin decir nada. Solo se acerca. Se sienta a su lado, en silencio. Helena apoya la cabeza en su hombro. Adara no la aparta.
+¿Fue muy feo?
+Helena asiente con un leve movimiento.
+No la encontraba. Comía y comía... pero ella no estaba.
+No estás sola, ¿sí? Aunque parezca que todo se rompe... no estás sola.
+Helena no responde. Solo cierra los ojos un instante.
+Helena, Adara y Chancho se acercan a la casa de Helena. La puerta está cerrada. Pero el marco está astillado.
+¿Siempre estuvo así?
+No...
+Chancho se queda en la entrada, inquieto. Mira con temor cada rincón.
+Vinieron a buscar ese algo.
+Adara asiente. No dice nada. Las ventanas están cerradas y aún así el ambiente se mantiene helado.
+¿Será buena idea quedarnos?
+Sí, dudo que vuelvan.
+Tienes razón.
+¿Vamos a tu casa?
+Tal vez fueron para allá.
+Entonces creo que sí, es seguro dormir aquí.
+Adara duerme en el sofá. Chancho se ha dormido sobre sus piernas. Helena permanece despierta, en la oscuridad. 
+Observa la caja metálica sobre la mesa. Sus ojos se han quedado abiertos, toda la noche.
+Adara está sentada en el sofá. Helena, se sienta a la mesa. Frente a ella, la caja, la abre lentamente.
+ Dentro encuentra papeles arrugados, fotografías borrosas, hay una pequeña pistola envuelta en tela negra, un mapa del pueblo dibujado a mano, y en especial hay una foto granulada de una mujer apenas visible.
+Helena sostiene un momento el bulto con tela negra para mostrar lo que oculta.
+¿Eso es...?
+Sí. Nos dejó un arma.
+Helena regresa con cuidado la pistola en la caja y saca el mapa. Lo desdobla y observa detenidamente, hay tres X rojas marcadas en el mapa.
+Si seguimos con esto... llegaremos directo hacia ella.
+Helena guarda silencio. Mira de nuevo la fotografía de su madre, ahora puesta en la pared.
+Ya no hay vuelta atrás.
+¿Segura que quieres acompañarme?
+Sí, vayamos los tres.
+Adara, Helena y Chancho llegan a la primera X marcada en el mapa, ven una fábrica abandonada.
+¿Estás segura de esto? No sabemos que hay aquí.
+No. Pero si Elodia está involucrada en lo de mi mamá tenemos que averiguarlo.
+No. Pero no puedo quedarme sin buscar la verdad.
+Salen de entre las ramas y se dan cuenta de que la única cámara del recinto fue vandalizada y la cerradura del portón está rota. Chancho se acerca a la rejilla oxidada. Adara empuja la reja y abre paso al interior de la fábrica.
+Helena ve como Chancho se pierde entre los anaqueles de metal. Por otro lado, Adara y Helena caminan con cuidado por el lugar creando un eco de sus pisadas.
+¡OOOOOINK!
+Oink oink oiink.
+Chancho sale por debajo de un anaquel de metal viejo lleno de polvo y telarañas, jala a Helena de su ropa y le apunta el lugar por donde salió.
+Okay, ya entendí Chancho. Adara, me ayudas a-.
+El anaquel es deslizado lentamente revelando una pequeña puerta rota de madera estilo entrada de búnker. Chancho se apresura a meterse de nuevo. Helena tose por todo el polvo que se ha levantado.
+De nada. Vamos, no te quedes atrás.
+Ambas bajan por unas escaleras de concreto. Al llegar al final de los escalones, ven que el lugar es mucho más grande de lo que aparentaba.
+Oink oink.
+Por Dios, ¿qué es este lugar...?
+Parece un laboratorio... O algo peor.
+Se adentran los tres a explorar. En medio de la sala hay una gran mesa con notas sueltas.
+Adara toma uno de los papeles. “El virus MA no reacciona igual en todos los organismos. Casos raros muestran mutación espontánea sin intervención externa.
+Levanta una hoja de libreta, parecen las notas de alguien. ''¿Conciencia preservada? Riesgo de anomalías. Inestabilidad emocional o sentido de identidad alterado.''
+Abren la puerta de la sala con un símbolo de riesgo biológico, Helena y Adara entran a revisar, pero Chancho chilla y se queda agarrado al marco de la puerta y tiembla ligeramente. Las chicas se voltean a ver un poco preocupadas.
+Tranquilo Chancho, nos echas aguas si ves venir a alguien.
+¡OINK!
+Adara encuentra un interruptor para prender la luz, y comienza a reproducirse en una pantalla vieja un video.
+La mutación espontánea es el verdadero avance. Si logramos rastrear un sujeto con conciencia preservada, podríamos probar que la evolución no depende del control. Solo de la exposición correcta.
+De fondo hay un pizarrón con las palabras ''Prototipo Sus Scrofa'' subrayadas, y un poco más lejos se alcanzan a ver fotos Chancho.
+¿Chancho...?
+Ella lo estaba vigilando.
+Voltean a la entrada para ver cómo se encuentra Chancho y se sorprenden al ver a Chancho hasta el fondo de la habitación.
+Ambas chicas lo siguen de cerca hasta llegar a una camilla. Sobre esta ven que hay una mochila con unos tenis blancos.
+Estas cosas... son de mi mamá.
+Un sonido metálico retumba por el pasillo, se mantienen en silencio hasta que una alarma empieza a sonar con luces parpadeantes.
+Tenemos que irnos. Ya.
+No nos vamos sin las pruebas.
+Helena toma rápidamente la carpetas y una memoria USB. Corren y se esconden en una habitación dentro de la sala justo a la par de que entran dos hombres armados.
+Elodia dijo que esto debía quedar limpio.
+Creo que entró alguien.
+Entonces no saldrá.
+Helena al escucharlos desenvaina la pistola. Adara se da cuenta y niega con la cabeza mientras le sostiene el brazo a Helena firmemente.
+Olvídate de ellos, conozco un lugar cerca y creo saber por dónde salir sin que nos vean.
+Helena suspira con pesadez y guarda la pistola, Adara la suelta y deciden buscar la salida.
+Helena, Adara y Chancho emergen del túnel oculto, jadeantes, cubiertos de polvo hacía un campo de maíz. Los tres caminan entre las plantas quebradas, sin hablar. El cielo se oscurece con rapidez.
+No podemos quedarnos a campo abierto.
+Conozco un lugar. Está cerca.
+Hace años trabajé haciendo cableado por esta zona. Nos pagaban por horas, así que encontré un rincón donde podía dormir sin que me vieran. Nunca le dije a nadie. Ni siquiera a tu mamá.
+Se detienen frente a una caseta de mantenimiento, junto a una torre eléctrica caída. Forzada y anónima, como todo lo que rodea.
+Si no la han saqueado, sigue siendo el lugar más seguro del mundo.
+Helena enciende una linterna. Hay una laptop sobre un escritorio.
+Prende la laptop, la pantalla parpadea. El ventilador zumba como si despertara de un coma.
+Correcto
+Incorrecto
+Introduce la USB con fuerza. Adara se sienta junto a Helena.
+Un poco muy sospechoso ¿no?
+La evolución no puede detenerse. Tampoco se fuerza. Solo se revela... en sujetos con potencial inusual.
+Hay quienes tienen la capacidad de percibir lo que otros ni siquiera pueden nombrar. Una médium. Una anomalía preciosa. Si sigue viva... será la clave.
+¿Una médium...?
+Está hablando de mi...
+Ella te está buscando. ¿Cómo te conoce?
+Supongo que la sacerdotisa fue más popular de lo que pensaba.
+Primero buscó a Chancho. Encontró a mi mamá. Ahora a mí.
+No van a atraparnos. Ni a él... ni a ti. No si estamos juntas.
+¿Por qué quieres estar conmigo? No tienes que ir si no quieres.
+Ay Lena, no es nada, cómo voy a dejar que hagas esto sola.
+Te quiero.
+Yo a ti.
+Adara continua navegando entre carpetas.
+Son los mismos símbolos. Están en el mapa original. Todos son sitios de Elodia...
+¿Neutralizados?
+Él no va a ser uno más en esa lista.
+Helena toma el mapa y lo compara con el mapa en la laptop.
+Mamá... Ella dejó esto. Tiene que ser eso. No es casualidad.
+¿Segura Lena? ¿No será una trampa?
+Helena observa la laptop. Luego a Chancho. Luego a Adara.
+Tenemos que enfrentarla. Seguro que no se lo espera.
+Un lugar olvidado entre árboles torcidos y maleza sin pisar. La granja está podrida de tiempo, pero aún en pie. Los alambres oxidados crujen con el viento. Chancho olfatea entre hojas secas y tablones flojos.
+
+
+En una sala lateral, encuentran una pared de monitores. Uno de ellos muestra una figura encorvada y de espaldas, cubierta por una manta.
+Esa blusa... es de mi mamá.
+¡Está viva!
+Un leve ruido. {p=1.5} La puerta se abre lentamente y Elodia Rivas aparece. Vestida con una bata blanca, guantes quirúrgicos, botas limpias. Su rostro no muestra sorpresa.
+Me alegra conocerte por fin, Helena.
+¿Eres tú? ¿La que nos vigilaba?
+¿Elodia?
+Tu madre no entendía lo que protegía. Todo fue observación. Precaución. Pero tú... Tu vínculo con la carne, con la memoria... es extraordinario.
+Chancho se adelanta, protegiendolas. Elodia lo observa como si viera un milagro.
+Y tú... Un espontáneo. Libre. Un resultado que ni el virus pudo predecir.
+¿Dónde está Hortensia?
+ Donde siempre ha estado. En medio de lo que no comprendemos. Su cuerpo resistió el virus. Pero no del todo. Quiso luchar. Pagó el precio.
+Llévame con ella.
+Elodia duda un momento. Luego, asiente con un gesto seco.
+Hortensia se levanta, pero algo en su cuerpo se tuerce. Sus movimientos son antinaturales. Fragmentada.
+Hija... Vete...
+Helena da un paso adelante. Llora, pero no grita. Está en shock.
+Mamá...
+Ella no es completamente una fracturada. Pero tampoco humana. No puedes curarla.
+Tú hiciste esto.
+No. El mundo la hizo así. Yo solo quise entenderlo...antes de que fuera irreversible.
+Hortensia avanza. No con furia. Con dolor. Con peso. Como si sus propios huesos se arrastraran por dentro.
+Mamá estás sufriendo.
+Lo siento... mamá
+¡Helena, no!
+Dispara. Hortensia cae. No como monstruo. {p=1.5} Sino como un cuerpo inerte.
+No puedo
+
+Apunta al candado de la celda, se acerca a abrazarla.
+Elodia camina hacia ellas. Despacio. Sin temor.
+Ahora entiendes lo que yo entendí. La conciencia no es inmortal. Pero el recuerdo sí.
+Helena apunta. Tiembla.
+No tienes que matarme. Podrías superarme. Heredar el proyecto. Perfeccionarlo.
+No quiero ser tú.
+¿Estás segura?
+Helena baja el arma por un segundo... pero solo para tener un ángulo que le permita disparar mejor.
+Da un solo disparo. {p=1.5} No cae de inmediato, pero la sangre empieza a brotar lentamente.
+Curioso... Pensé que... ibas a...
+Cae. Sin gloria. Sin redención. {p=1.5} Mientras tanto Chancho se come los cables de refrigeración del sistema.
+Adara y Helena quitan a Chancho, pero los equipos mordidos comienzan a sobrecalentarse y prenden fuego. El lugar se derrumba.
+Hortensia es alcanzada por las llamas y muere.
+¡Mamááááááááá!
+La salida colapsa a sus espaldas. Helena y Adara caminan sin mirar atrás.
+¿Por qué lo hiciste?
+Eso ya no era mi mamá.
+Ni siquiera pienses que fue tu culpa, Lena.
+Gracias, Ara. Por eso mi mamá te quería tanto.
+¿Nada más tu mamá?
+Bueno, yo también.
+¿A dónde iremos?
+Hasta donde no recordemos lo que hemos pasado.
+Se toman la mano, en la otra mano de Helena, el mapa. {p=1.5} Tres X. Una tachada. Otra en el puño.
+La tercera... seguirá esperando.
+
+¿Debería buscar algo aquí

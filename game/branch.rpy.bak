@@ -1,0 +1,686 @@
+##### RAMAS // AMORDIDAS // AVOCADO STUDIO // EMILIO VELAZQUEZ, FRANCISCO GUZMAN // XIMENA LEON
+
+## FINAL 4 CERDO ####################################
+label chancho:
+     
+    
+    ###### Chancho diferente ##################################
+    #################################################
+    scene bg cueva
+    show chancho at center 
+    ch "¿Ya no quieren lodo? Venga, está muy fresco."
+    ch "Flores primero. Luego jugar y esperar a mamá. Siempre así."
+    ch "Esta, esta!? Ya puedo verla."
+    ho "No muerdes, ¿verdad? Yo tampoco."
+
+    ###### Chancho Helena ###############################
+    #################################################
+    show chancho at center 
+    he "¿Qué...?"
+    he "¡Vete de aquí!"
+    he "¿Tú...?"
+    he "¡No!"
+    he "No. Aquí no."
+    ch "Hoy no salió."
+
+    ###### Chancho Día 2 ###############################
+    #################################################
+    scene bg cueva noche
+    show chancho at center 
+    ch "Hortensia. Hoy sí. Hoy sí viene."
+    ch "Ella las puso ahí. Para que las viera. Ella está cerca."
+
+    ###### Chancho Depresión ###############################
+    #################################################
+    show chancho at center 
+    ch "Está llorando otra vez."
+    ch "Aquí... aquí huele a ella."
+    he "Te dije que no..."
+    he "Otra vez tú…"
+    he "No quiero. Déjame."
+    ch "No está fracturada... sólo... solo que ya no camina."
+
+    ###### Chancho solo ###############################
+    #################################################
+    show chancho at center 
+    s1 "¡Ahí va! ¡¡Rápido!!"
+    ch "No quiero... no quiero..."
+    s2 "¡Lo tenemos!"
+    ho "¡Ven sube!"
+    ho "Shhh... Ya pasó. Ya estás conmigo."
+
+    ###### Chancho tumba ###############################
+    #################################################
+    scene bg casa exterior
+    show chancho at center 
+    ch "Quizás si no lo ve, no existe."
+    he "No..."
+    he "¿Por qué...?!"
+
+    ###### Chancho Día 4 ###############################
+    #################################################
+    scene bg casa chancho
+    show chancho at center 
+    ho "Por aquí estarás más seguro. Diviértete, sé libre."
+    ch "Despierta. No puedes quedarte aquí. Hace frío."
+    he "Ya basta... cerdo tonto..."
+    he "¿¡Qué quieres ahora, huh!?"
+
+    ###### Chancho Cuerpo ###############################
+    #################################################
+    ch "Sigue sin moverse. Tal vez solo duerme mucho... como cuando llueve."
+    ch "Creo que ya salió."
+    ch "No... No, tú no. Tú no."
+
+    ###### FINAL 4 Cerdo ############################
+    #################################################
+
+    return
+
+## RUTA FLASHBACKS ##################################
+label flash:
+     
+    ###### Día 1 Depresión ############
+    #################################################
+    scene bg sillon
+    show helena at left
+    show chancho at center 
+    he "No era tan difícil confiar en mí, mamá. No para esto."
+    he "¡Tercas! ¡Eso dijiste! ¡Claro que lo somos! ¡Pero esto no se hace así, mamá!"
+    
+    ##### Decision
+    menu:
+        "Abro la puerta":
+            "Helena se pone de pie, tambalea"
+
+        "Agarro la foto":
+            "Helena se pone de pie y agarra la foto de su mamá"
+            
+            he "Me hubiera gustado que te despidieras en persona."
+   
+    "Vuelven a tocar la puerta y sale del cuarto"
+    he "No. No hoy."
+    he "No se va... no se va..."
+
+    ###### Flash primera vez ##########################
+    #################################################
+    he "¡AAAAAAH!"
+    ho "Mi niña... mi niña..."
+    he "Luces... muchas luces... y una cama... había pitidos... alguien lloraba."
+    ho "Mi niña."
+    hu "A ver, abre tu boquita."
+    he "Cortinas blancas... una viejita llorando… pitidos... ¡La enfermera ya viene!"
+    hu "¡Hortensia! ¡Tiene un don! ¡¿No lo ves?! ¡Puede ver a los muertos!"
+    hu "Hay gente que pagaría por esto."
+    ho "No vamos a lucrar con esto."
+    hu "Esto no es sobre el dinero, es sobre ayudar, Hortensia. La gente necesita saber... ¡Y nosotros también!"
+    ho "¿Y hacer de nuestra hija una médium?"
+    hu "Solo en lo que me alivio de la espalda."
+
+    ###### Día 2 Depresión ####################################
+    #################################################
+    scene bg casa exterior
+    show helena at left
+    show chancho at center 
+    "Día 2 Depresión"
+
+    ###### Flash Hongo #################################
+    #################################################
+    ho "Estos de aquí... son buenos. Mira las láminas por debajo, como costillas. Son como los que comimos el otro día."
+    ho "No debemos comer cualquier hongo porque no todos son amigos."
+    he "Hoy no hay hongos…"
+
+    ###### Ansiedad #################################
+    #################################################
+    he "No... no otra vez... por favor..."
+    
+    ###### princesa #################################
+    #################################################
+    ma "Por favor... solo quiero saber si me escuchó antes de irse."
+    he "Dijo... dijo que sí. Que escuchó... y que no te guarda rencor..."
+    hu "Eres un puente, mi reina... eres la llave."
+    he "Llave no. Tengo hambre..."
+    hu "Come otro bocado. Y sonríe. La gente viene por ti."
+
+    ###### Ansiedad 2 #################
+    #################################################
+    scene bg casa chancho
+    show helena at left
+    show chancho at center 
+    ch "Oink... ¡Hola...! ¿Estás bien?"
+
+    ##### Decisión 
+    menu:
+        "Le digo algo":
+            he "¿Sabes qué? Desordena lo que quieras. Ya no importa."
+
+        "Lo ignoro":
+            ""
+            
+    ch "Oink..."
+
+    ###### Choza ####################################
+    #################################################
+    hu "Come un poco más, princesa. Así ayudas al mundo…"
+    he "Ya no quiero papá..."
+    ho "Esto se acabó…"
+    hu "¡¡Estás loca, mujer!!"
+    he "¡NO, MAMI!"
+    he "Ahora ya podremos ser libres, ¿verdad mami?"
+    he "No quiero ser esto…"
+
+    ###### Secuestro Flashbacks ####################################
+    #################################################
+    he "No queda nada. Mi madre está muerta. Yo también..."
+    s1 "Está aquí. Revisen todo."
+    s2 "Recuerden que la quiere viva."
+    he "¡Suéltame!"
+    ch "¡OIIIIIIINK!"
+
+    ###### Dra. Elodia ####################################
+    #################################################
+    el "Buenos días, Helena."
+    he "¡¿Dónde estoy?!"
+    el "Relájate, estás en buenas manos. Soy la Dra. Elodia Rivas. Un placer conocerte."
+    he "Esto... no es un hospital."
+    el "Correcto. Es un laboratorio."
+    el "Tu madre resistió el virus durante más tiempo del esperado."
+    he "Pero mi madre estaba sana antes de desaparecer."
+    el "Ay querida, no estás entendiendo. Tu madre no llegó aquí por voluntad propia. Yo no trabajo con voluntarios. ¿Eres tú una voluntaria?"
+    he "¡Aaaargh!"
+    el "Le pedí a tu madre que me ayudara con un encargo entrando al depósito durante una entrega, no sospechó nada. Estaba tan preocupada por ayudar..."
+    el "Tanta amabilidad. Tanta ingenuidad. Fue decepcionante."
+    he "Pensé que buscabas al cerdo."
+    el "También, pero tu madre no cooperó, y hay algo en ti que es clave para la investigación."
+    el "Llévenla a la celda 64. No la alimenten en 3 días. Veamos cómo reacciona el virus en su cuerpo."
+    
+    jump pierde
+
+
+## FINAL 3 Novias ###################################
+label novias:
+     
+    ###### Adara Enterrar ###########################
+    #################################################
+    scene bg casa 
+    show helena at left
+    show adara at derecha
+    ad "¿Estás bien con dejar las cosas así, Lena?"
+
+    ##### A y B ###################################
+    menu:
+        "Tengo que estar bien, voy a estar bien.":
+            $ caminoa_flag = True
+            ad "Aquí estaré para apoyarte, Lena."
+            ad "Somos amigas a final de cuentas. Sabes que siempre estaré para ti."
+            he "Sí… amigas. Perdón, sé que he sido grosera contigo."
+            ad "No lo has sido, Lena."
+
+        "No lo sé, Ara.":
+            $ caminob_flag = True
+            he "Si te soy sincera siento que me voy a arrepentir, pero esto me rebasa y ya no sé qué hacer… tengo miedo."
+            ad "Ay Lena…"
+            ad "No llores Lena, está bien tener miedo. Además no estás sola, tienes a chancho… y me tienes a mí."
+            he "¿Pero me vas a besar o solo me vas a conso…?"
+            ad "¿Te sigo besando o ya puedo seguir apoyándote?"
+            he "Ara, shhhhh."
+            he "No me voy a ir a ningún lado. También iría contigo a cualquier parte."
+
+    ###### AB
+
+    ###### Adara Intrusión ##########################
+    #################################################
+    show chancho at center 
+    
+    if caminoa_flag:
+        ad "¿Entonces somos amigas?"
+        he "Sí, ¿qué más? Tanta carne te está atrofiando el cerebro, Ara."
+    
+
+    if caminob_flag:
+        ad "¿Entonces volvimos?"
+        he "Tanta carne te está atrofiando el cerebro, Ara."
+   
+    ###### Secuestro de Chancho ###############################
+    #################################################
+    ad "No hay que estar mucho tiempo en tu casa, hay que volver a la mía pronto."
+    
+    ##### Decisión 
+    menu:
+        "¿No quieres descansar un poco?":
+            he "¿No quieres descansar un poco?"
+            he "Anoche dormimos en el bosque."
+
+        "Sí, solo voy a empacar.":
+            he "Sí, solo voy a empacar."
+   
+    ad "Va, después de eso nos vamos."
+
+    ad "¡Se llevaron a Chancho!"
+    he "Apenas anoche escapamos y ya saben dónde vivo."
+    ad "Esos hombres están detrás de esto."
+    he "Maldición, nos alcanzaron muy rápido."
+    he "Debemos escapar del pueblo, es cuestión de tiempo para que nos alcancen. No me siento segura ya aquí."
+    ad "Podemos ir a mi casa, ellos no saben de mí. Nos esconderemos en lo que nos vamos."
+
+
+    ###### Pelea ###############################
+    #################################################
+    scene bg cama
+    show helena at left
+    show adara at derecha
+    he "Deberíamos descansar un poco."
+    ad "Reacciona, Helena. Por favor. Tenemos que escapar ya, antes de que se les ocurra regresar por nosotras. No podemos quedarnos aquí a esperar que las cosas se calmen, este lugar ya no es seguro."
+    ad "Si entendí bien todo, sólo les importa el puerco, entonces con suerte ya no nos molestarán más ahora que lo tienen. Debemos irnos."
+    
+    ##### Decisión 
+    menu:
+        "¿Cómo puedes decir eso tan tranquilamente?":
+            he "¿Cómo puedes decir eso tan tranquilamente?"
+            he "¿Qué no ves lo que pasa? Sobrevivimos a costa de un pequeño."
+            ad "Yo también me encariñé de Chancho, Helena, pero estoy pensando en sobrevivir."
+    
+        "Adara, por Dios, ¡se llevaron a Chancho!":
+            he "Adara, por Dios, ¡se llevaron a Chancho!"
+            he "¿Quieres que me preocupe por escapar como si lo de hace rato no hubiera pasado? ¿Acaso no está en tus planes rescatarlo?"
+            ad "¿Y qué, nos maten? Si de verdad querías enfrentar esto, no hubieras enterrado la caja. Ahora ya es tarde y yo estoy pensando en sobrevivir."
+    
+
+    ad "Va, después de eso nos vamos."
+
+    he "No hicimos nada, y aún así en lo único que nos preocupamos sigue siendo en nosotras. ¡¿Qué no ves?! ¡Somos unas malditas egoístas!"
+    ad "¿Y qué preferías que hiciera? Dejarte correr a salvar al niño solo te hubiera llevado a tu muerte, Lena. Esa gente no se anda con rodeos, entiende."
+    he "¿Y de qué me sirvió haber evitado morir? Me siento horrible por dentro, Ara. Todavía no terminó mi luto por mi madre y ¿ahora esto? Esta es una maldita señal, yo no-"
+    ad "Basta Helena, no digas más… por favor. Me duele verte así, escucharte así, sólo... para, por favor."
+    ad "Sé que estás pasando por mucho ahorita, Lena, pero por favor no te rindas aún. Sé que no es mucho, pero me tienes a mí."
+   
+    if caminoa_flag:
+        he "Adara, no te confundas. No sabes cómo me afectó lo que me hiciste."
+
+    if caminob_flag:
+        he "¿Acaso crees que por lo que hicimos anoche ahora tienes el derecho de decir eso? ¿Pensaste que unos besos arreglarían todo? No te engañes, Adara, tú sabes perfectamente que esa promesa no la puedes cumplir."
+    
+    ad "Lena, entiendo que falta resolver eso, pero no me quieras cambiar el tema ahora. Estamos hablando de qué vamos a hacer."
+    he "Tú cambiaste el tema primero. Okay, va, es peligroso, incluso estúpido, seguir creyendo que podemos encarar a esa gente, pero ¿qué hago? ¿Regresar contigo como si nada hubiera pasado, como si todo aquello que me causaste se puede ignorar? ¿Hacemos eso? ¿Ignorar lo que pasó con mi mamá? Ni siquiera sé si en verdad está muerta, porque esa no era su carne. ¿O acaso entendí mal? Dime, te escucho. ¿Qué hacemos?"
+    ad "No Lena, nada de eso. Lo de tu mamá es algo muy serio, pero lo que tuvimos también fue algo serio y yo no pienso volver a-"
+    he "¿Qué esta vez sí es en serio? ¡¿SÍ ES EN SERIO?! Adara, ¡me rompiste el corazón esa vez! No sólo me ilusionaste y luego dejaste que la realidad me azotara en la cara con tus crueles palabras, sino que además me humillaste. ¿Sabes cuánto tiempo me tomó sanar? ¡¿Eh?!"
+    ad "No Helena, por favor escúchame. Tú no me estás entendiendo. Sé que en el pasado te lastimé y-"
+    he "Me hiciste creer que sentíamos lo mismo. Que queríamos lo mismo. ¿Y qué pasó el día que traté de dar un paso adelante?"
+    ad "Lena, lo siento, yo no-"
+    ad "Lena… no sé qué decirte para que me perdones, pero quiero que sepas que esa vez-"
+    he "¡BASTA!"
+    ad "Lena, fui una tonta, lo admito. No estaba lista y cuando tú lo estuviste no supe qué hacer, reaccioné de la peor manera… Lo siento, herí tus sentimientos y me siento terrible por ello."
+    
+    if caminoa_flag:
+        he "¡Já! Como si eso me importara ahora. Métete esto en la cabeza, Adara, esa labia tuya ya no tendrá efecto en mí. Yo ya no siento NADA, ni por ti ni por NADA."
+    
+    if caminob_flag:
+        he "¿Ah sí? Pues qué mal. A mí tu disculpa ya no me sirve de nada, ya no soy la misma ingenua que se desvivía por ti y tus mentiras."
+    
+    ad "¿Hubieras preferido que nos mataran? ¿De verdad? Quiero escucharte decirlo, dime si no, Lena, ¿acaso no querías huir? Anoche nos juramos un futuro juntas, eso de 'No me voy a ir a ningún lado' ¿era mentira?"
+    
+    if caminoa_flag:
+        he "Cállate, déjame en paz. ¿No me escuchaste? Ya no quiero estar contigo como lo quise antes."
+        ad "Helena, ¡ya basta! Ni me escuchas ni sales de tu hoyo. Estoy tratando de hacerte entender que he cambiado, que ahora sí haré bien las cosas contigo. Por favor, entiéndeme, Lena."
+    
+    if caminob_flag:
+        he "¡No! Basta, Adara, cállate ya. No se trata de eso."
+        ad "Pues yo tampoco soy la misma. Poco me importa lo que se llegue a decir. Yo no bromeaba cuando te dije que iría a cualquier parte contigo. ¡Lena, entiéndeme, carajo!"
+
+    ###### Escena ###############################
+    #################################################
+    scene bg aca
+
+    if caminoa_flag:
+        he "¿Qué me ves?"
+        ad "No te estoy viendo."
+
+    if caminob_flag:
+        he "¿Qué estás haciendo?"
+        ad "¿Qué estoy haciendo?"
+
+    he "Adara..."
+    ad "¿Sí?"
+    he "Ara."
+    ad "Lena."
+
+    if caminoa_flag:
+        he "Esta es tu última oportunidad, arruínala y no vuelves a saber de mí."
+
+    if caminob_flag:
+        he "Te puedo dar una última oportunidad."
+      
+    he "¿Entendiste?"
+    ad "Entendí, guapa."
+    ad "¿Puedo?"
+
+    ###### Se van lejos ###############################
+    #################################################
+    scene bg bosque dia
+    show helena at left
+    show adara at derecha
+    ad "Y yo aquí esperando que me despertaras con un beso, esto es lo que recibo por esperar aquí quieta."
+    he "¿Qué ya no tienes prisa por huir? Ayer te preocupaba mucho."
+    he "Me tienes a mí ahora, ¿de qué te quejas? ¿O qué, mi amor no es suficiente para ti?"
+    ad "Tu amor es algo que no merezco, pero que cuidaré el tiempo que tú me permitas. Me alegro que después de tanto tiempo, por fin puedo decirte que te amo, Lena."
+    he "Te amo."
+    ad "No puedo creer que esto sea real, han pasado tantas cosas estos últimos días. Lena, no me estoy equivocando esta vez ¿verdad? Yo te amo y tú lo sabes ¿verdad?"
+    
+    if caminoa_flag:
+        he "Ay, Ara, de las cosas que te terminas preocupando. ¿Apenas ahorita te detuviste a pensar en eso?"
+    
+    if caminob_flag:
+        he "Yo también te amo, Ara. No te preocupes del pasado ni del futuro, sólo disfruta conmigo lo que tenemos ahora."
+    
+    he "¿Quedó claro? Es más, te lo repito: Adara, te amo."
+    ad "¿Estás lista, Lena?"
+
+    ##### Decisión
+    menu:
+        "Mmmm me pregunto lo mismo.":
+            he "Mmmm me pregunto lo mismo."
+
+        "Sip, vamos.":
+            he "Sip, vamos."
+
+    he "Ara, ¿tendrás un libro que me regales?"
+    ad "Claro, amor, ¿qué libro te gustaría?"
+    he "El que sea, es para esta flor de caléndula, la recogí antes de que se llevaran a Chancho. Llevaré una conmigo para siempre traer algo que me recuerde a mi madre y a Chancho."
+    ad "Te daré mi diario para que también me recuerdes a mí."
+
+    ###### FINAL 3 NOVIAS ###########################
+    #################################################
+
+    return
+
+## RUTA SECUESTRO ###################################
+label secuestro:
+    
+    ###### Secuestro Enterrar #######################
+    #################################################
+    scene bg caja
+    show helena at left
+    show adara at derecha
+    show chancho at center 
+    ad "¿Segura que vas a estar bien con esto?"
+
+    ##### Decisión 
+    menu:
+        "Tengo que estar bien, voy a estar bien.":
+            he "Tengo que estar bien, voy a estar bien."
+            ad "Aquí estaré para apoyarte, Lena."
+            ad "Somos amigas a final de cuentas."
+            he "Perdón, sé que he sido un poco grosera contigo."
+            ad "Pero no lo has sido, Lena."
+
+        "La verdad, no lo sé, me da algo de miedo.":
+            he "La verdad, no lo sé, me da algo de miedo."
+            ad "Está bien tener miedo, Lena."
+            he "Es que no entiendo, ¿qué hicimos mal? ¿qué hice mal? ¿por qué sucedió todo esto?"
+    
+    he "Me pregunto cómo llegamos hasta aquí."
+    ad "No lo sé, tal vez la noche nos lo diga."
+    he "Ya lo pensé y… creo que debo irme de la ciudad."
+    ad "Vele el lado bueno, no sería la primera vez que huyes je…je…"
+    he "¿Te quedarías a Chancho si me voy?"
+    ad "¿No sería mejor irnos todos y ya?"
+
+    ##### Decisión 
+    menu:
+        "¿En serio quieres ir conmigo?":
+            he "¿En serio quieres ir conmigo?"
+
+        "No, Adara, entiende, debo irme sola.":
+            he "No, Adara, entiende, debo irme sola."
+
+    ad "Te he estado esperando todo este tiempo. Déjame ir contigo."
+    he "Pero y… ¿a dónde iríamos?"
+    ad "No lo sé, Lena, hasta donde no recordemos lo que hemos pasado."
+    he "Que sea más lejos."
+    he "¿Qué fue eso...?"
+    ch " Oink... huele mal..."
+    he "¡No, no, no!"
+
+
+    call sueno
+
+    ###### Secuaces de Elodia #######################
+    #################################################
+    scene bg casa
+    show helena at left
+    show adara at derecha
+    show chancho at center 
+    "Secuaces de Elodia"
+
+    ###### Laboratorio Secuestro #########################
+    #################################################
+    el "Buenos días, Helena."
+    he "¡¿Dónde estoy?! ¡¿Dónde está Chancho?! ¡¿Dónde está Adara?!"
+    el "Todos están vivos. A salvo. Por ahora."
+    he "¡¿Qué es este lugar?! ¡¿Quién eres?!"
+    el "Soy la Dra. Elodia Rivas. Tal vez has oído hablar de mí... aunque seguramente no como deberías."
+    he "¡Tú...! ¡Fuiste tú!"
+    el "Sí. Pero no fue un acto de crueldad. Fue necesidad. Tu madre tomó algo. Protegía a alguien muy importante. Y eso... podía cambiarlo todo."
+    he "¡La encerraste como a un animal! ¡La convertiste en uno!"
+    el "Yo no, el virus lo hizo."
+    el "Tu madre es fuerte. Pero no pudo evitarlo. Nadie puede, cuando el virus se arraiga el cuerpo es afectado, pero su conciencia... resistió."
+    he "¿Por qué lo hiciste? ¿Dónde está Adara?"
+    el "Adara está bien, ella tiene un propósito aquí, así como tú."
+    el "Tu conciencia es distinta. Es como... una red. Estás hecha para sobrevivir a la mutación sin perderte. Eres una pieza perdida de esta evolución."
+    he "¡Oh, claro! ¡Y ahora quieres que me una a tu secta de monstruos conscientes!"
+    el "No monstruos. Humanos, que entendieron que el cuerpo es efímero. Que lo único que vale la pena preservar es la conciencia. La autopercepción. La memoria. La capacidad de reconocer al otro."
+    el "¿Qué somos sin eso, Helena? Solo carne. Solo miedo."
+    el "Tú puedes ayudarme. A salvar a los que están atrapados entre la mutación y el olvido. A tu madre. A Chancho. A Adara."
+    he "¡No los toques!"
+    el "Ya lo hice. Pero juntas podemos deshacer lo que otros empezaron."
+    el "Solo si trabajas conmigo. Si decides mirar más allá del asco, del miedo, y ves lo que podría ser el futuro."
+    he "No pienso trabajar contigo."
+    el "Entonces se acaban las opciones. Y será tu elección que los pierdas."
+
+    ##### Trabajo ###################################
+    menu: 
+        el "¿Qué dices Helena?"
+        "Jamás.":
+            he "Jamás."
+
+        "Nunca voy a trabajar contigo. Eres una estúpida si pensabas que iba a cooperar.":
+            he "Nunca voy a trabajar contigo. Eres una estúpida si pensabas que iba a cooperar."
+            el "Perfecto, no te arrepentirás."
+            jump contexto #Jump porque no vuelvo
+    ###### TRABAJO
+
+    ###### Contexto virus ###########################
+    #################################################
+    scene bg laboratorio
+    show helena at left
+    el "Sujeto de prueba 64F. Edad treinta y siete. Conciencia previa estable, etapa de transición incompleta. Método de preservación: criogenía interrumpida."
+    el "Si ves algo, cualquier cosa... necesito que lo describas tal cual."
+    mu "Yo aún estoy aquí... yo... ¡yo soy!"
+    he "Fragmentado... pero resistía. No completamente ida."
+    el "Interesante. Anótalo."
+    he "¿Será esto real? ¿Será una visión más? ¿Una visión de mí misma?"
+    he "Elodia, tengo algo que decirte."
+
+    ##### Decisión
+    menu:
+        "A veces confundo la realidad con visiones.":
+            he "A veces confundo la realidad con visiones."
+
+        "No sé si quiero seguir haciendo esto.":
+            he "No sé si quiero seguir haciendo esto."
+
+    el "¿Cómo?"
+    he "A veces no sé si esto es real… Es como si todo el tiempo acabara de comer carne."
+    el "La mente suele protegerse distorsionando lo imposible. Pero esto, Helena, es tan real como el cuerpo que habitas."
+    he "Es que no me gusta y no sé si en verdad estamos haciendo un avance."
+    el "¡Claro que estamos avanzando! Que no veamos los resultados inmediatamente no significa que no los haya."
+    el "¿Te vas a rendir con tu mamá, acaso?"
+    he "No, no, sigamos."
+
+    ###### Trabaja con Elodia #######################
+    #################################################
+    el "Esto no dolerá mucho."
+    
+    ##### Decisión
+    menu:
+        "Eso dijiste la última vez.":
+            he "Eso dijiste la última vez."
+
+        "Ya estoy acostumbrada a que todo me duela.":
+            he "Ya estoy acostumbrada a que todo me duela."
+
+    he "¿Crees que si tengo esta habilidad... también tengo el virus?"
+    el "Tal vez. El virus fue creado para adaptarse a cualquier entorno imitando capacidades animales: regeneración, resistencia, detección de vibraciones, hibernación... habilidades para sobrevivir al fin del mundo que se avecinaba."
+    el "Pero lo tuyo... ver recuerdos a través de la carne... eso no existe en el reino animal."
+    he "Entonces, ¿qué soy? ¿Un híbrido?"
+    el "Una anomalía. Algo nuevo. Algo que no debió existir, y sin embargo... estás aquí."
+    el "Y eso, Helena, es más fascinante que cualquier plan original. Porque la verdadera evolución... nunca es la prevista."
+    el "Por eso eres importante."
+
+    ###### Entrega a Chancho ########################
+    #################################################
+    show chancho at center 
+    el "Helena... necesito pedirte algo más."
+    el "Tu amigo. Chancho."
+
+    ##### Decisión
+    menu:
+        "Pensé que Chancho no te servía.":
+            he "Pensé que Chancho no te servía."
+
+        "Chancho alegra mis días aquí.":
+            he "Chancho alegra mis días aquí."
+
+    el "Chancho podría ser la pieza fundamental. Su existencia podría reescribir todo lo que sabemos sobre transmisión de conciencia. No quiero destruirlo. Quiero entenderlo. Preservarlo."
+    he "Él no confía en nadie. Apenas y se deja tocar por mí."
+    el "Es una anomalía. Una joya de mutación espontánea. De animal a humano. Eso no estaba previsto en el virus MA."
+    el "Necesito hacer pruebas con él. Solo observación clínica. Lecturas. No lo lastimaré."
+    el "No lo forzaré. Pero si tú se lo pides..."
+
+    ##### Decisión
+    menu:
+        "Pero déjame ver a Adara.":
+            he "Pero déjame ver a Adara."
+            el "Helena, Adara ya no está aquí."
+            he "¿Cómo?"
+            el "La dejé ir, ella no me sirve."
+            el "Déjame observar a Chancho, no le haré nada."
+
+        "No quiero que experimentes con Chancho.":
+            he "No quiero que experimentes con Chancho."
+            el "Helena, no vamos a avanzar si no lo observamos."
+
+    ch "Oink... Esto es raro."
+    el "Hola cerdito. Si me entiendes puedes pararte en el círculo verde."
+    el "¿Sabes quién eres?"
+    ch "Oink... (Que te importa.)"
+    el "Si eres un cerdo párate en el círculo verde."
+
+    ###### Nueva celda #######################
+    #################################################
+    he "Te voy a sacar de ahí..."
+    he "Ya pasó mucho tiempo. No me has dicho nada de Chancho."
+    he "¡Elodia!"
+    el "Te dije que las pruebas tomarían tiempo."
+    he "No me dijiste que me lo ibas a quitar."
+    el "Estamos muy cerca."
+    el "El virus Metamorfosis Adaptativa hubiera podido ser una joya maldita. Un diseño perfecto, liberado por desesperados."
+    el "Su objetivo era noble: supervivencia. Climas extremos, hambrunas, toxicidad ambiental... Era la siguiente etapa de la humanidad."
+    el "Pero no supieron esperar. Lo soltaron incompleto. Y mira dónde estamos ahora."
+    el "De casualidad... ¿comes muchos hongos?"
+
+    ##### Decisión
+    menu:
+        "Soy... era... vegana.":
+            he "Soy... era... vegana."
+            he "A veces comía setas del bosque. Mi madre me enseñó."
+
+        "No desde que estoy aquí.":
+            ""
+
+    el "Estamos investigando si el virus puede adaptarse al reino fungi... Puede que hayamos encontrado algo."
+    he "¿El virus MA en hongos?"
+    el "No creo que podamos llegar a esas conclusiones todavía."
+    he "Estoy harta..."
+    he "¡AAAAAAAAAAAAH!"
+    el "Adelante Helena. Este es uno de los sujetos más prometedores que hemos tenido."
+    ch "Lena... me gustaban las caléndulas."
+    he "No..."
+    he "¡ES ÉL! ¡ES CHANCHO!"
+    he "¡Tú lo mataste! ¡Lo mataste! ¡Eres una maldita...!"
+    el " No lo entiendes ahora. Pero lo harás. Pronto."
+    el "Necesitas alimentarte."
+    el "Sabes lo que estás rechazando, ¿no? El poder de ver. De recordar."
+    he "No quiero ver nada más."
+    el "Podríamos hacer historia juntas. Erradicar el miedo. Redefinir la humanidad."
+    el "Pero prefieres pudrirte en este rincón, como si eso honrará algo. Como si esa resistencia fuera noble."
+    he "Prefiero pudrirme que convertirme en ti."
+
+
+    jump esclava
+
+
+## Contexto Historia ################################
+label contexto:
+     
+    ###### Contexto Historia ########################
+    #################################################
+    scene bg laboratorio
+    show helena at left
+    he "Jamás. Nunca voy a trabajar contigo. Eres una estúpida si pensabas que iba a cooperar."
+    el "¿Y crees que tu madre sí quiso cooperar? ¿Que fue voluntaria? No, querida... Yo no trabajo con voluntarios. Trabajo con resultados."
+    el "Obtengo todo lo que quiero. Siempre. Aunque me digan que no."
+    el "Tu madre, durante su última entrega, le pedí que me ayudara a meter el encargo al depósito, no sospechó nada. Estaba tan preocupada por ayudar..."
+    el "Tanta amabilidad. Tanta ingenuidad. Fue su perdición. Le inyecté un sedante. Cayó como una hoja seca."
+    el "Ni siquiera luchó. Fue decepcionante."
+    he "¡Maldita seas! ¡Te voy a matar!"
+    el "Llévenla. Célula 64. Mantengan el régimen de ayuno por tres días. Luego... que coma."
+
+    label pierde:
+        ###### Pierde a Chancho #########################
+        #################################################
+        show chancho at center 
+        #hombre  "Hora de comer."
+        he "No quiero."
+        #hombre "No es una opción."
+        el "Tu conciencia sigue intacta. La red neuronal ha reaccionado. Tus memorias siguen sin colapsar."
+        el "Él fue un buen espécimen. Resistente."
+
+    jump esclava
+    
+    
+## FINAL 2 Esclava ##########################################
+label esclava:
+     
+    ###### Conejillo de indias ######################
+    #################################################
+    scene bg laboratorio pasillo
+    show helena at left
+    he "¡Suéltenme!"
+    el "Hubo complicaciones. Tu madre... está en estado crítico. El sistema inmunoalterado no respondió bien a las modificaciones celulares."
+    he "Está viva..."
+    el "Necesito tu habilidad."
+    he "¡No voy a comer más carne!"
+    el "Si no lo haces... muere."
+    el "Tú decides. Pero el tiempo no es tu aliado."
+    he "¡Tú la enfermaste!"
+    el "Ella se debilitó por su apego. Por ti. Sólo estoy haciendo lo necesario."
+    he "¡La mataste!"
+    el "La guiaste hacia eso. Tu silencio. Tu duda. Yo solo... le di un fin útil."
+    el "Y si no te decides pronto... Adara puede acompañarla."
+
+
+    ###### Confinamiento ######################
+    #################################################
+
+    s1 "Nueva muestra. 7 ml. Todo estable. Sin resistencia."
+    el "Eso es. Sin conflicto, la evolución fluye mejor."
+    el "Gracias, Helena."
+
+    ###### FINAL 2 Esclava de Elodia#################
+    #################################################
+
+    return
+
+
+#FIN
