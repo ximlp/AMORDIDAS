@@ -91,7 +91,7 @@ define config.has_voice = True
 ## el menú principal. Este archivo seguirá sonando en el juego hasta que sea
 ## detenido o se reproduzca otro archivo.
 
-define config.main_menu_music = "audio/meatnoseq.mp3"
+define config.main_menu_music = "audio/Ambientacion/meatnoseq.mp3"
 
 
 ## Transiciones ################################################################

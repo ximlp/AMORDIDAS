@@ -158,11 +158,15 @@ label chancho:
     voice "N31.mp3"
     nvle "El marco se astilla. La madera vieja cede. Un pequeño hueco. Chancho empuja su cuerpo entre los restos de la ventana."
     play sound "audio/Foley/Ventana rompiendose.mp3"
+    if persistent.audio_cues:
+        $ Descripcion = "Se escucha una ventana rompiendose"
 
     ###### Chancho Depresión ###############################
     #################################################
     voice "N32.mp3"
     nvle"Chancho cae dentro con torpeza. Tose. Sacude sus patas. Se arrastra hasta las macetas. Las huele. Las lame. Come con desesperación."
+    if persistent.audio_cues:
+        $ Descripcion = ""
     voice "N33.mp3"
     nvle "En el fondo... Helena llora en su habitación. No grita. No reacciona al ruido. No sale."
     voice "N34.mp3"
@@ -274,8 +278,12 @@ label chancho:
     nvl clear
     voice "N58.mp3"
     play sound "audio/Foley/Pala.mp3"
+    if persistent.audio_cues:
+        $ Descripcion = "Se escucha la fuerza con la que Helena entierra la pala"
     nvle "Helena, cubierta de barro, cavando. {p=1.5} Está junto a la tumba simbólica donde dejó el código QR de su madre. La tierra ya no es tan blanda. Cada palada parece más pesada que la anterior."
     show chancho parado at center 
+    if persistent.audio_cues:
+        $ Descripcion = ""
     voice "N59.mp3"
     nvle "Chancho se detiene a unos metros. La observa en silencio. Helena lo ve. No dice nada. No lo echa. Solo lo ve. Sus ojos están llenos, pero secos."
     voice "N60.mp3"
@@ -409,6 +417,8 @@ label chancho:
     nvl clear
     voice "N94.mp3"
     play sound "audio/Foley/Estómago gruñendo.mp3"
+    if persistent.audio_cues:
+        $ Descripcion = "Se escucha el estómago de Chancho gruñendo"
     nvle "Chancho despierta en el mismo lugar. Helena no ha vuelto en días. Tiene hambre. Ya no hay comida. Mira el cuerpo. No lo toca. Sale."
     voice "N95.mp3"
     nvle "Chancho camina con pasos lentos. Busca comida o algo. El aire es húmedo. Más que otros días."
@@ -2119,10 +2129,14 @@ label contexto:
         voice "Secuaz2.mp3"
         s1  "Hora de comer."
         play sound "audio/Foley/Cadenas 1.mp3"
+        if persistent.audio_cues:
+        $ Descripcion = "Se escuchan cadenas"
         he "No quiero."
         show secuaz perro at right
         voice "Secuaz3.mp3"
         s2 "No es una opción."
+        if persistent.audio_cues:
+        $ Descripcion = ""
         nvl clear
         nvle "La agarra por el cabello. Le abre la boca a la fuerza y empuja el trozo de carne contra su lengua. Helena se retuerce, pero sus fuerzas son escasas. La carne entra. Traga."
         show almas with fade3
@@ -2171,12 +2185,16 @@ label esclava:
     nvl clear
     voice "N321.mp3"
     play sound "audio/Foley/Cadenas 3.mp3"
+    if persistent.audio_cues:
+        $ Descripcion = "Se escuchan cadenas"
     nvle "La puerta se abre. Helena está más flaca. Esta vez, dos hombres con uniforme entran. Le quitan la cadena del tobillo. La levantan con brusquedad."
     show helena esclava at center
     voice "Helena_200.mp3"
     he "¡Suéltenme!"
     nvl clear
     voice "N322.mp3"
+    if persistent.audio_cues:
+        $ Descripcion = ""
     nvle "La arrastran por el pasillo. Su cuerpo está débil, pero la rabia la mantiene en pie."
     voice "N323.mp3"
     nvle "La atan a una silla de metal. La iluminación directa le quema la vista. Frente a ella, una mesa con una bandeja tapada por un paño blanco."

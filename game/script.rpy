@@ -78,7 +78,7 @@ label start:
     ###### Flash Ella te odió ############################
     #################################################
     
-    play music "audio/Un Inicio crudo.wav"
+    play music "audio/Ambientacion/Un Inicio crudo.wav"
     show carneVelas with fade1
     nvl clear
     nvle ""
@@ -115,7 +115,7 @@ label start:
     nvle "No obstante, la pequeña cierra los ojos, respira profundo y, finalmente, le da un mordisco al trozo de carne."
     nvl clear 
     show fbojos with fade
-    play sound "audio/creppy.mp3"
+    play sound "audio/Foley/creppy.mp3"
     voice "N357.mp3"
     nvle "El mundo a su alrededor se desvanece."
     ""
@@ -127,7 +127,7 @@ label start:
     
     scene bg senora with fade
     nvl clear
-    play music "audio/AntesQueTodo.ogg"
+    play music "audio/Ambientacion/AntesQueTodo.ogg"
     
     voice "Nina_2.mp3" 
     he "Ella... te odió hasta su último aliento."
@@ -173,6 +173,8 @@ label start:
 
     scene bg funeral hoyo
     nvl clear 
+    if persistent.audio_cues:
+        $ Descripcion = ""
     voice "N363.mp3"
     nvle "Finalmente, ya más calmada, se retira del lugar, dirigiéndose a una zona más poblada que se vislumbra a la lejanía."
     show cerdos
@@ -204,15 +206,16 @@ label start:
 
     #Interacción Super
     stop music
-    play sound "audio/puertaMercado.mp3"
-    play sound "audio/multitud.mp3" #AudioCue
+    play sound "audio/Foley/puertaMercado.mp3"
+    play sound "audio/Foley/multitud.mp3" #AudioCue
     scene bg pasillo
     nvl clear
     if persistent.audio_cues:
-        $ Descripcion = "Se escucha una multitud"
+        $ Descripcion = "Se escuchan ruidos de SuperMercado y una multitud de personas"
 
     voice "N371.mp3"
     nvle "La joven avanza con pasos constantes pero inseguros y busca con la mirada el pasillo al que debería dirigirse. "
+    
     
     show screen anaquel_screen
     voice "N372.mp3"
@@ -247,7 +250,7 @@ label start:
         $ xpos_var = 640
     if draggable == "circle":
         show maquina on
-        play sound "audio/MaquinaOn.mp3"
+        play sound "audio/Foley/MaquinaOn.mp3"
     
     ################################################
     ################################################
@@ -257,7 +260,7 @@ label start:
     
     scene bg congelador
     nvl clear
-    play sound "audio/puertaMercado.mp3"
+    play sound "audio/Foley/puertaMercado.mp3"
     voice "N373.mp3"
     "Oferta de carne" "Enfermedad terminal."
     voice "N374.mp3"
@@ -689,9 +692,13 @@ label start:
     voice "N428.mp3"
     nvle "Finalmente, cierra la puerta con fuerza, provocando que varios imanes, tickets y demás papeles, que estaban adheridos caigan al suelo."
     scene bg cosas suelo 
+    if persistent.audio_cues:
+        $ Descripcion = "Se escucha uun estruendo"
     nvl clear
     voice "Helena_32.mp3" 
     he "¡Ahg!, ¡lo que me faltaba! Por si el día no se podía poner peor."
+    if persistent.audio_cues:
+        $ Descripcion = ""
 
     scene bg cosas suelo with dissolve
     nvl clear
@@ -718,11 +725,12 @@ label start:
     nvl clear
     if persistent.audio_cues:
         $ Descripcion = "Se escucha el abrir de una puerta"
-    play sound "audio/puerta.mp3"
+    play sound "audio/Foley/puerta.mp3"
     voice "Helena_36.mp3" 
     he "No había entrado aquí desde lo que pasó. Se siente... extraño."
     if persistent.audio_cues:
         $ Descripcion = ""
+
     show screen cuarto_screen
 
     voice "Helena_35.mp3" 
@@ -749,7 +757,7 @@ label start:
     show helena decadencia at center with slow_dissolve
     voice "Helena_38.mp3" 
     he "¿En qué te metiste para terminar así, mamá?"
-    play sound "audio/Helena/Helena_38.mp3" 
+    play sound "audio/Helena_38.mp3" 
     he "¿De verdad era algo tan importante para ti?"
     he "Y si así era, ¿por qué no me lo contaste?"
     stop sound
@@ -841,7 +849,7 @@ label start:
     if persistent.audio_cues:
         $ Descripcion = "Se escucha un timbre"
     
-    play sound "audio/knock knock.mp3"
+    play sound "audio/Foley/knock knock.mp3"
     voice "N448.mp3"
     nvle "La joven timbra y espera mirando las plantas tan frescas que crecen en el pequeño jardín y en su cara surge una pequeña sonrisa. Hacen contacto visual en completo silencio."
     
@@ -1155,11 +1163,16 @@ label start:
     voice "N474.mp3"
     nvle "Silencio. {p=1.5} Adara entra primero. Luego Helena, y Chancho."
     
-    play sound "audio/puertaMetal.mp3"
+    if persistent.audio_cues:
+        $ Descripcion = "Se escucha una puerta de metal"
+    play sound "audio/Foley/puertaMetal.mp3"
 
     show contacto_video 
     voice "Contacto_02.mp3" 
     co "Ustedes no deberían estar aquí."
+    if persistent.audio_cues:
+        $ Descripcion = ""
+
     voice "Helena_85.mp3"
     he "Queremos saber qué pasó con mi madre."
     show chancho sentado at leftdown with dissolve
@@ -1316,9 +1329,13 @@ label start:
         co "Tienen que irse."
 
     show contacto_video with dissolve
-    play sound "audio/GolpearPuertaContacto.mp3"
+    if persistent.audio_cues:
+        $ Descripcion = "Se escuchan golpes en la puerta"
+    play sound "audio/Foley/GolpearPuertaContacto.mp3"
     voice "N486.mp3"
     nvle "Chancho se sobresalta y se esconde tras un grupo de cajas oxidadas. Helena se levanta de golpe, alerta."
+    if persistent.audio_cues:
+        $ Descripcion = ""
     voice "Secuaz4.mp3"
     s1 "Sabemos que están ahí."
     voice "Contacto_15.mp3" 
@@ -1347,8 +1364,12 @@ label start:
     voice "N489.mp3"
     nvle "Adara no duda. Corre hacia la parte de atrás. Quita el seguro de una ventana estrecha, empuja el marco que cruje con el esfuerzo, astillado cae al suelo. Chancho se lanza primero ágilmente. Helena lo sigue con la caja metálica contra el pecho."
     play sound "audio/Foley/Ventana rompiendose.mp3"
+    if persistent.audio_cues:
+        $ Descripcion = "Se escucha una ventana rompiendose"
     voice "Contacto_21.mp3" 
     co "¡No se detengan! ¡No miren hacia atrás!"
+    if persistent.audio_cues:
+        $ Descripcion = ""
     hide contacto mano 
     voice "N490.mp3"
     nvle "Justo cuando Helena atraviesa el marco, alcanza a escuchar cómo la cerradura cede. La puerta principal se abre de golpe."
@@ -1376,7 +1397,7 @@ label start:
     nvl clear
     if persistent.audio_cues:
         $ Descripcion = "Se escucha un arrollo, fauna nocturna"
-    play sound "audio/bosqueNoche.mp3"
+    play sound "audio/Ambientacion/bosqueNoche.mp3"
 
     voice "N494.mp3"
     nvle "Ya no se oye a nadie detrás de ellos, pero ninguno se detiene todavía." with dissolve
@@ -1384,6 +1405,9 @@ label start:
     nvle "Chancho respira con dificultad. Helena se detiene por fin, jadeante, con la caja metálica apretada contra su pecho."
     voice "N496.mp3"
     nvle "Se han adentrado en el bosque. Adara se seca el sudor con la manga. Helena camina en círculos breves, perdida en su propio cuerpo."
+    if persistent.audio_cues:
+        $ Descripcion = ""
+        
     show i_he_deterioro at leftdialogue with easeinleft
     voice "Helena_96.mp3"
     he "¿Nos siguen?"
@@ -1391,8 +1415,7 @@ label start:
     nvle "Adara niega con la cabeza, aún sin aliento. Silencio. Solo el murmullo del viento entre los árboles."
     voice "Helena_97.mp3"
     he "No puedo más... Esto va más allá de mí y de mi mamá."
-    if persistent.audio_cues:
-        $ Descripcion = ""
+   
 
     show i_ad_deterioro at right with easeinright
     voice "Adara_43.mp3"
@@ -1403,11 +1426,15 @@ label start:
     voice "Adara_44.mp3"
     ad "Lena... no tienes por qué seguir si no quieres."
 
-    play sound "audio/fogata.mp3"
+    play sound "audio/Foley/fogata.mp3"
     voice "Helena_98.mp3"
+    if persistent.audio_cues:
+        $ Descripcion = "Se escucha la fogata ardiendo suavemente"
     he "No tengo idea de qué está pasando. No sé si quiero saber. No sé si... quiero seguir."
     voice "Adara_45.mp3"
     ad "Nadie te obliga a seguir buscando, pero admito que no serías tú si no lo haces."
+    if persistent.audio_cues:
+        $ Descripcion = ""
     voice "Helena_99.mp3"
     he "¿Y tú qué harías?"
     scene bg helena adara with fade3
@@ -1545,10 +1572,14 @@ label start:
 
     scene bg plato
     nvl clear
+    if persistent.audio_cues:
+        $ Descripcion = "Se escucha el corazón de Helena latiendo fuertemente"
     play sound "audio/Foley/Corazón latiente.mp3"
     voice "Nina_22.mp3" 
     he "¿Dónde estás?"
     play sound "audio/Ambientacion/IN 1.mp3"
+    if persistent.audio_cues:
+        $ Descripcion = ""
     ################################################
 
     scene bg bosque dia with fade1
@@ -2038,7 +2069,7 @@ label start:
             ad "¡Helena, no!"
 
             if persistent.audio_cues:
-                $ Descripcion = "Disparo"
+                $ Descripcion = "Se escucha un disparo"
 
             $ renpy.movie_cutscene("disparo_mama.ogv", stop_music=True)
             show bg mama with fade1
@@ -2082,9 +2113,13 @@ label start:
     nvle "Helena baja el arma por un segundo... pero solo para tener un ángulo que le permita disparar mejor."
     voice "N563.mp3"
     play sound "audio/Foley/Disparo.mp3"
+    if persistent.audio_cues:
+        $ Descripcion = "Se escucha un disparo"
     nvle "Da un solo disparo. {p=1.5} No cae de inmediato, pero la sangre empieza a brotar lentamente."
     voice "Helodia_11.mp3"
     el "Curioso... Pensé que... ibas a..."
+    if persistent.audio_cues:
+        $ Descripcion = ""
     voice "N564.mp3"
     nvl clear
     nvle "Cae. Sin gloria. Sin redención. {p=1.5} Mientras tanto Chancho se come los cables de refrigeración del sistema."

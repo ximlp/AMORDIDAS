@@ -499,7 +499,7 @@ screen navigation():
             ypos 860
 
             if renpy.variant("pc"):
-                textbutton _("Salir") action [Play("sound", "clic_sound.wav"), Quit(confirm=not main_menu)] at button_scale_hover:
+                textbutton _("Salir") action [Play("sound", "clic_sound.wav"), Quit(confirm= main_menu)] at button_scale_hover:
                     text_color '#da0053'
                     hover_background "gui/buttonsmall.png"
                     selected_background "gui/buttonsmall.png"
