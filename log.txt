@@ -1,134 +1,32 @@
-2025-10-08 19:38:05 UTC
-Windows-10-10.0.19041
+2025-10-13 05:58:21 UTC
+Windows-10-10.0.26100
 Ren'Py 8.3.7.25031702
 
-Early init took 0.22s
-Loading error handling took 0.06s
-Loading script took 0.41s
-Loading save slot metadata took 0.12s
-Loading persistent took 0.00s
-Running init code took 0.13s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.01s
-Reloading save slot metadata took 0.08s
-Index archives took 0.00s
-Dump and make backups took 0.11s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.07s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.05s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.12s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.97s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'ATI Technologies Inc.'"
-Renderer: b'AMD Radeon(TM) Vega 8 Graphics'
-Version: b'4.6.14761 Compatibility Profile Context 21.30.26 30.0.13026.3'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(1184, 666) drawable=(1184, 666)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(590, 341) drawable=(590, 341)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(811, 473) drawable=(811, 473)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1023.96s
-Loading error handling took 0.06s
-Loading script took 0.67s
-Loading save slot metadata took 0.11s
+Early init took 0.14s
+Loading error handling took 0.10s
+Loading script took 1.45s
+Loading save slot metadata took 0.05s
 Loading persistent took 0.00s
 Running init code took 0.10s
-Loading analysis data took 0.03s
+Loading analysis data took 0.00s
 Analyze and compile ATL took 0.01s
-Reloading save slot metadata took 0.08s
+Reloading save slot metadata took 0.04s
 Index archives took 0.00s
-Backing up script files to 'C:\\Users\\Ximelad Palos\\AppData\\Roaming/RenPy/backups\\AMORDIDAS':
-Dump and make backups took 0.10s
+Backing up script files to 'C:\\Users\\Usuario\\AppData\\Roaming/RenPy/backups\\AMORDIDAS':
+Dump and make backups took 0.04s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.10s
+Initial gc took 0.03s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
 Cleaning stores took 0.00s
 Init translation took 0.00s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
-Save screen analysis took 0.03s
-Prepare screens took 0.12s
-Save pyanalysis. took 0.03s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.69s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'ATI Technologies Inc.'"
-Renderer: b'AMD Radeon(TM) Vega 8 Graphics'
-Version: b'4.6.14761 Compatibility Profile Context 21.30.26 30.0.13026.3'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(811, 456) drawable=(811, 456)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1046.71s
-Loading error handling took 0.03s
-Loading script took 0.75s
-Loading save slot metadata took 0.15s
-Loading persistent took 0.00s
-Running init code took 0.13s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.01s
-Reloading save slot metadata took 0.10s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\Ximelad Palos\\AppData\\Roaming/RenPy/backups\\AMORDIDAS':
-Dump and make backups took 0.13s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.13s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.05s
-Prepare screens took 0.16s
-Save pyanalysis. took 0.03s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.81s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'ATI Technologies Inc.'"
-Renderer: b'AMD Radeon(TM) Vega 8 Graphics'
-Version: b'4.6.14761 Compatibility Profile Context 21.30.26 30.0.13026.3'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(811, 456) drawable=(811, 456)
-Maximum texture size: 4096x4096
+Save screen analysis took 0.01s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.03s

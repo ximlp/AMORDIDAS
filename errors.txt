@@ -2,9 +2,13 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 754: Only one say menuitem may exist per menu.
-    nvle "¿Voy con Adara?"
-                          ^
+File "game/branch.rpy", line 2132: if statement expects a non-empty block.
+    if persistent.audio_cues:
+                             ^
+
+File "game/branch.rpy", line 2138: if statement expects a non-empty block.
+    if persistent.audio_cues:
+                             ^
 
 Ren'Py Version: Ren'Py 8.3.7.25031702
-Thu Jul 31 17:50:48 2025
+Sat Oct 11 11:53:49 2025

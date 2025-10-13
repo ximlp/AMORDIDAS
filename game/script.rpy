@@ -2685,13 +2685,13 @@ init python:
                     slider_speed += 0.04 
                 elif round(sprite.x) >= slider_bar_size[0] - slider_size[0] and sprite.direction == "right":
                     sprite.direction = "left"
-                    slider_speed = 4
+                    slider_speed = 8
                 elif round(sprite.x) > 0 and sprite.direction == "left":
                     sprite.x -= slider_speed * chest_difficulty
                     slider_speed += 0.04
                 elif round(sprite.x) <= 1 and sprite.direction == "left":
                     sprite.direction = "right"
-                    slider_speed = 4
+                    slider_speed = 8
         if not stop_slider:
             return 0
         else:

@@ -2130,13 +2130,13 @@ label contexto:
         s1  "Hora de comer."
         play sound "audio/Foley/Cadenas 1.mp3"
         if persistent.audio_cues:
-        $ Descripcion = "Se escuchan cadenas"
+            $ Descripcion = "Se escuchan cadenas"
         he "No quiero."
         show secuaz perro at right
         voice "Secuaz3.mp3"
         s2 "No es una opción."
         if persistent.audio_cues:
-        $ Descripcion = ""
+            $ Descripcion = ""
         nvl clear
         nvle "La agarra por el cabello. Le abre la boca a la fuerza y empuja el trozo de carne contra su lengua. Helena se retuerce, pero sus fuerzas son escasas. La carne entra. Traga."
         show almas with fade3
