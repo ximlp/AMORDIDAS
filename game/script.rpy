@@ -186,15 +186,18 @@ label start:
     nvle "El cerdo gira la cabeza para husmear qué hay al fondo del hoyo. No obstante, parece que no hay nada."
     voice "N367.mp3"
     nvle "Los cerdos continúan su camino. El cerdo comienza a seguir la misma ruta que Helena."
+    if persistent.audio_cues:
+        $ Descripcion = ""
+    
     nvl clear
 
 
     ###### Super ####################################
     #################################################
-    if persistent.audio_cues:
-        $ Descripcion = ""
+    
     
     scene bg super
+    play music "audio/audios/picazzo.wav"
     nvl clear
     voice "N368.mp3"
     nvle "En la zona más habitada del pueblo."
@@ -292,7 +295,7 @@ label start:
     
     hide helena
     show i_he_tres at leftdialogue with easeinleft
-    
+    play music "audio/audios/pensamientosFogata.wav"
     voice "Helena_4.mp3" 
     he "¡¿Te querías comer a mi mamá?!"
     
@@ -381,6 +384,7 @@ label start:
     #################################################
     scene bg casa with fade1
     nvl clear
+    play music "audio/audios/Melodia.wav"
     voice "N389.mp3"
     nvle "Helena observa las charolas de carne con una mirada fría y afligida. "
     scene bg sillon
@@ -484,7 +488,9 @@ label start:
     ###### Flash ya no ##############################
     #################################################
     play sound "audio/Ambientacion/IN 1.mp3"
+    stop music
     show fbtormento with fade1
+    play music "audio/audios/martyr.wav"
     voice "Nina_3.mp3" 
     he "Ya no quiero... no quiero más."
     
@@ -518,6 +524,7 @@ label start:
     #################################################
     #scene bg mesa with dissolve
     show pruebaCarne with fade1
+    play music "audio/audios/sad.wav"
     voice "N397.mp3"
     nvle "La chica toma uno de los paquetes, le quita el plástico y saca un trozo de carne con lentitud, agarrándolo solo con la punta de los dedos."
 
@@ -587,6 +594,7 @@ label start:
     
     scene bg pasillo
     nvl clear
+    play music "audio/audios/Otro.wav"
     voice "N407.mp3"
     nvle "Helena se apresura a llegar al pasillo en donde estaban los restos de su madre."
     scene bg refri carne
@@ -616,6 +624,7 @@ label start:
 
     scene bg casa with dissolve
     nvl clear
+    play music "audio/audios/pensamientosFogata.wav"
     voice "N410.mp3"
     nvle "Helena entra a la cocina cargando varias bolsas."
     scene bg carnes
@@ -679,7 +688,7 @@ label start:
     scene bg casa
     nvl clear
     show helena lateral at right with easeinright
-    
+    play music "audio/audios/AntesQueTodo.wav"
     voice "N424.mp3"
     nvle "Pone la maceta, con algo de brusquedad, sobre la encimera de la cocina, junto a una ventana."
     voice "N425.mp3"
